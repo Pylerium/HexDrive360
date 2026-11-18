@@ -4,20 +4,17 @@ HexDrive360 is a Windows toolkit for connecting to an Xbox 360 development conso
 
 ## Requirements
 
-- Windows 10 or later
-- .NET 8 Windows Desktop Runtime
-- An Xbox 360 with XBDM enabled, reachable on the same network (TCP port 730 by default)
+- Windows 10 or later, 64-bit (x64)
+- An Xbox 360 with XBDM enabled and reachable over the network (TCP port 730 by default)
 
-Some plugin features require JRPC2 on the console. No game files are included; add only files you are authorized to use.
+The release is self-contained and does not require a separate .NET installation. Some plugin features require JRPC2 on the console. No game files are included; add only files you are authorized to use.
 
 ## Run
 
-Download and extract `HexDrive360-v1.0.0-win-x64.zip`, then start `HexDump360.exe`. Connect using the console's IP address.
+Download and run `HexDump360.exe`, or extract the release ZIP and run the executable inside it. The app may extract bundled runtime files on first launch.
 
 ## Build from source
 
 ```powershell
-dotnet publish .\MemoryEditor.csproj -c Release -r win-x64 --self-contained false -o .\publish
+dotnet publish .\MemoryEditor.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:IncludeAllContentForSelfExtract=true -o .\publish
 ```
-
-The project targets .NET 8 Windows Forms. The release is framework-dependent, so install the .NET 8 Windows Desktop Runtime if it is not already present.
