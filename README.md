@@ -1,6 +1,6 @@
 # HexDrive360
 
-HexDrive360 is a Windows toolkit for connecting to an Xbox 360 development console over XBDM and inspecting or editing its live memory. It includes memory scanning, game offsets, XEX inspection, and scripting tools.
+HexDrive360 is a Windows toolkit for connecting to an Xbox 360 development console or RGH Kernel 17559 over XBDM and inspecting or editing its live memory. It includes memory scanning, game offsets, XEX inspection, and scripting tools.
 
 ## Requirements
 
