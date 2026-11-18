@@ -1,0 +1,1364 @@
+﻿Name: common_scripts/default
+Pointer Address: 0x831EBB84
+Buffer Address: 0xA583A4C0
+Size: 0x57
+ 
+Name: common_scripts/utility.gsc
+Pointer Address: 0x831EBB90
+Buffer Address: 0xA5B845A0
+Size: 0x62C1
+ 
+Name: codescripts/character_mp.gsc
+Pointer Address: 0x831EBB9C
+Buffer Address: 0xA5B8A880
+Size: 0x1DE
+ 
+Name: maps/mp/_pc.gsc
+Pointer Address: 0x831EBBA8
+Buffer Address: 0xA5B8B1E0
+Size: 0x9A
+ 
+Name: maps/mp/_acousticsensor.gsc
+Pointer Address: 0x831EBBB4
+Buffer Address: 0xA5B8B2A0
+Size: 0xDAB
+ 
+Name: maps/mp/_ambientpackage.gsc
+Pointer Address: 0x831EBBC0
+Buffer Address: 0xA5B8C080
+Size: 0x5C
+ 
+Name: maps/mp/_art.gsc
+Pointer Address: 0x831EBBCC
+Buffer Address: 0xA5B8C100
+Size: 0x25D7
+ 
+Name: maps/mp/_audio.gsc
+Pointer Address: 0x831EBBD8
+Buffer Address: 0xA5B8E700
+Size: 0x839
+ 
+Name: maps/mp/_ballistic_knife.gsc
+Pointer Address: 0x831EBBE4
+Buffer Address: 0xA5B8EF60
+Size: 0x1212
+ 
+Name: maps/mp/_bb.gsc
+Pointer Address: 0x831EBBF0
+Buffer Address: 0xA5B901A0
+Size: 0x605
+ 
+Name: maps/mp/_bonuscard.gsh
+Pointer Address: 0x831EBBFC
+Buffer Address: 0xA5B907C0
+Size: 0x57
+ 
+Name: maps/mp/_bouncingbetty.gsc
+Pointer Address: 0x831EBC08
+Buffer Address: 0xA5B90840
+Size: 0x127E
+ 
+Name: maps/mp/_burnplayer.gsc
+Pointer Address: 0x831EBC14
+Buffer Address: 0xA5B91AE0
+Size: 0x1E8E
+ 
+Name: maps/mp/_busing.gsc
+Pointer Address: 0x831EBC20
+Buffer Address: 0xA5B939A0
+Size: 0x196
+ 
+Name: maps/mp/_challenges.gsc
+Pointer Address: 0x831EBC2C
+Buffer Address: 0xA5B93B60
+Size: 0x7EAD
+ 
+Name: maps/mp/_compass.gsc
+Pointer Address: 0x831EBC38
+Buffer Address: 0xA5B9BA40
+Size: 0x58F
+ 
+Name: maps/mp/_createfx.gsc
+Pointer Address: 0x831EBC44
+Buffer Address: 0xA5B9C000
+Size: 0xB962
+ 
+Name: maps/mp/_createfxmenu.gsc
+Pointer Address: 0x831EBC50
+Buffer Address: 0xA5BA7980
+Size: 0x39F6
+ 
+Name: maps/mp/_createfxundo.gsc
+Pointer Address: 0x831EBC5C
+Buffer Address: 0xA5BAB3A0
+Size: 0x1D72
+ 
+Name: maps/mp/_decoy.gsc
+Pointer Address: 0x831EBC68
+Buffer Address: 0xA5BAD140
+Size: 0x1A4D
+ 
+Name: maps/mp/_demo.gsc
+Pointer Address: 0x831EBC74
+Buffer Address: 0xA5BAEBA0
+Size: 0x8CA
+ 
+Name: maps/mp/_development_dvars.gsc
+Pointer Address: 0x831EBC80
+Buffer Address: 0xA5BAF4A0
+Size: 0xA6
+ 
+Name: maps/mp/_destructible.gsc
+Pointer Address: 0x831EBC8C
+Buffer Address: 0xA5BAF580
+Size: 0x1D4A
+ 
+Name: maps/mp/_empgrenade.gsc
+Pointer Address: 0x831EBC98
+Buffer Address: 0xA5BB1300
+Size: 0xAC1
+ 
+Name: maps/mp/_entityheadicons.gsc
+Pointer Address: 0x831EBCA4
+Buffer Address: 0xA5BB1DE0
+Size: 0xA92
+ 
+Name: maps/mp/_explosive_bolt.gsc
+Pointer Address: 0x831EBCB0
+Buffer Address: 0xA5BB28A0
+Size: 0x17D
+ 
+Name: maps/mp/_flashgrenades.gsc
+Pointer Address: 0x831EBCBC
+Buffer Address: 0xA5BB2A40
+Size: 0xC1A
+ 
+Name: maps/mp/_fx.gsc
+Pointer Address: 0x831EBCC8
+Buffer Address: 0xA5BB3680
+Size: 0x20AE
+ 
+Name: maps/mp/_fxanim.gsc
+Pointer Address: 0x831EBCD4
+Buffer Address: 0xA5BB5760
+Size: 0xAF
+ 
+Name: maps/mp/_gameadvertisement.gsc
+Pointer Address: 0x831EBCE0
+Buffer Address: 0xA5BB5840
+Size: 0x1E51
+ 
+Name: maps/mp/_gamerep.gsc
+Pointer Address: 0x831EBCEC
+Buffer Address: 0xA5BB76C0
+Size: 0x226A
+ 
+Name: maps/mp/_global_fx.gsc
+Pointer Address: 0x831EBCF8
+Buffer Address: 0xA5BB9960
+Size: 0x80D
+ 
+Name: maps/mp/_hacker_tool.gsc
+Pointer Address: 0x831EBD04
+Buffer Address: 0xA5BBA1A0
+Size: 0x31CD
+ 
+Name: maps/mp/_heatseekingmissile.gsc
+Pointer Address: 0x831EBD10
+Buffer Address: 0xA5BBD3A0
+Size: 0x2735
+ 
+Name: maps/mp/_interactive_objects.gsc
+Pointer Address: 0x831EBD1C
+Buffer Address: 0xA5BBFB00
+Size: 0x1A83
+ 
+Name: maps/mp/_load.gsc
+Pointer Address: 0x831EBD28
+Buffer Address: 0xA5BC15A0
+Size: 0x2D04
+ 
+Name: maps/mp/_medals.gsc
+Pointer Address: 0x831EBD34
+Buffer Address: 0xA5BC42C0
+Size: 0x2FE
+ 
+Name: maps/mp/_menus.gsc
+Pointer Address: 0x831EBD40
+Buffer Address: 0xA5BC45E0
+Size: 0x6A
+ 
+Name: maps/mp/_mgturret.gsc
+Pointer Address: 0x831EBD4C
+Buffer Address: 0xA5BC4680
+Size: 0x12CD
+ 
+Name: maps/mp/_multi_extracam.gsc
+Pointer Address: 0x831EBD58
+Buffer Address: 0xA5BC5980
+Size: 0x76
+ 
+Name: maps/mp/_music.gsc
+Pointer Address: 0x831EBD64
+Buffer Address: 0xA5BC5A20
+Size: 0x1E2
+ 
+Name: maps/mp/_popups.gsc
+Pointer Address: 0x831EBD70
+Buffer Address: 0xA5BC5C20
+Size: 0x19F7
+ 
+Name: maps/mp/_riotshield.gsc
+Pointer Address: 0x831EBD7C
+Buffer Address: 0xA5BC7640
+Size: 0x2456
+ 
+Name: maps/mp/_satchel_charge.gsc
+Pointer Address: 0x831EBD88
+Buffer Address: 0xA5BC9AC0
+Size: 0x62A
+ 
+Name: maps/mp/_sensor_grenade.gsc
+Pointer Address: 0x831EBD94
+Buffer Address: 0xA5BCA120
+Size: 0x1127
+ 
+Name: maps/mp/_scoreevents.gsc
+Pointer Address: 0x831EBDA0
+Buffer Address: 0xA5BCB280
+Size: 0x38AE
+ 
+Name: maps/mp/_scoreevents.gsh
+Pointer Address: 0x831EBDAC
+Buffer Address: 0xA5BCEB60
+Size: 0x59
+ 
+Name: maps/mp/_scrambler.gsc
+Pointer Address: 0x831EBDB8
+Buffer Address: 0xA5BCEBE0
+Size: 0x1064
+ 
+Name: maps/mp/_script_gen.gsc
+Pointer Address: 0x831EBDC4
+Buffer Address: 0xA5BCFC60
+Size: 0x1822
+ 
+Name: maps/mp/_smokegrenade.gsc
+Pointer Address: 0x831EBDD0
+Buffer Address: 0xA5BD14A0
+Size: 0x68D
+ 
+Name: maps/mp/_sticky_grenade.gsc
+Pointer Address: 0x831EBDDC
+Buffer Address: 0xA5BD1B60
+Size: 0x17D
+ 
+Name: maps/mp/_tacticalinsertion.gsc
+Pointer Address: 0x831EBDE8
+Buffer Address: 0xA5BD1D00
+Size: 0x20FA
+ 
+Name: maps/mp/_teargrenades.gsc
+Pointer Address: 0x831EBDF4
+Buffer Address: 0xA5BD3E20
+Size: 0xC6D
+ 
+Name: maps/mp/_treadfx.gsc
+Pointer Address: 0x831EBE00
+Buffer Address: 0xA5BD4AC0
+Size: 0xB09
+ 
+Name: maps/mp/_tabun.gsc
+Pointer Address: 0x831EBE0C
+Buffer Address: 0xA5BD55E0
+Size: 0x2988
+ 
+Name: maps/mp/_trophy_system.gsc
+Pointer Address: 0x831EBE18
+Buffer Address: 0xA5BD7FA0
+Size: 0x1CFB
+ 
+Name: maps/mp/_proximity_grenade.gsc
+Pointer Address: 0x831EBE24
+Buffer Address: 0xA5BD9CC0
+Size: 0x1CAE
+ 
+Name: maps/mp/_utility.gsc
+Pointer Address: 0x831EBE30
+Buffer Address: 0xA5BDB9A0
+Size: 0x930E
+ 
+Name: maps/mp/_vehicles.gsc
+Pointer Address: 0x831EBE3C
+Buffer Address: 0xA5BE4CE0
+Size: 0x6DD1
+ 
+Name: maps/mp/_version.gsh
+Pointer Address: 0x831EBE48
+Buffer Address: 0xA5BEBAE0
+Size: 0x55
+ 
+Name: maps/mp/gametypes/_battlechatter.gsc
+Pointer Address: 0x831EBE54
+Buffer Address: 0xA5BEBB60
+Size: 0x4556
+ 
+Name: maps/mp/gametypes/_callbacksetup.gsc
+Pointer Address: 0x831EBE60
+Buffer Address: 0xA5BF00E0
+Size: 0x1666
+ 
+Name: maps/mp/gametypes/_class.gsc
+Pointer Address: 0x831EBE6C
+Buffer Address: 0xA5BF1780
+Size: 0x5761
+ 
+Name: maps/mp/gametypes/_clientids.gsc
+Pointer Address: 0x831EBE78
+Buffer Address: 0xA5BF6F20
+Size: 0x11B
+ 
+Name: maps/mp/gametypes/_copter.gsc
+Pointer Address: 0x831EBE84
+Buffer Address: 0xA5BF7060
+Size: 0x30A7
+ 
+Name: maps/mp/gametypes/_damagefeedback.gsc
+Pointer Address: 0x831EBE90
+Buffer Address: 0xA5BFA140
+Size: 0xAD3
+ 
+Name: maps/mp/gametypes/_deathicons.gsc
+Pointer Address: 0x831EBE9C
+Buffer Address: 0xA5BFAC40
+Size: 0x75E
+ 
+Name: maps/mp/gametypes/_dev.gsc
+Pointer Address: 0x831EBEA8
+Buffer Address: 0xA5BFB3C0
+Size: 0xCB44
+ 
+Name: maps/mp/gametypes/_dev_class.gsc
+Pointer Address: 0x831EBEB4
+Buffer Address: 0xA5C07F40
+Size: 0x270E
+ 
+Name: maps/mp/gametypes/_friendicons.gsc
+Pointer Address: 0x831EBEC0
+Buffer Address: 0xA5C0A680
+Size: 0x709
+ 
+Name: maps/mp/gametypes/_gameobjects.gsc
+Pointer Address: 0x831EBECC
+Buffer Address: 0xA5C0ADC0
+Size: 0x8FE1
+ 
+Name: maps/mp/gametypes/_globalentities.gsc
+Pointer Address: 0x831EBED8
+Buffer Address: 0xA5C13DE0
+Size: 0x66
+ 
+Name: maps/mp/gametypes/_globallogic.gsc
+Pointer Address: 0x831EBEE4
+Buffer Address: 0xA5C13E80
+Size: 0xCC62
+ 
+Name: maps/mp/gametypes/_globallogic_actor.gsc
+Pointer Address: 0x831EBEF0
+Buffer Address: 0xA5C20B20
+Size: 0x1092
+ 
+Name: maps/mp/gametypes/_globallogic_audio.gsc
+Pointer Address: 0x831EBEFC
+Buffer Address: 0xA5C21BE0
+Size: 0x48EE
+ 
+Name: maps/mp/gametypes/_globallogic_defualts.gsc
+Pointer Address: 0x831EBF08
+Buffer Address: 0xA5C26500
+Size: 0x1611
+ 
+Name: maps/mp/gametypes/_globallogic_player.gsc
+Pointer Address: 0x831EBF14
+Buffer Address: 0xA5C27B40
+Size: 0xC83E
+ 
+Name: maps/mp/gametypes/_globallogic_score.gsc
+Pointer Address: 0x831EBF20
+Buffer Address: 0xA5C343C0
+Size: 0x5AB9
+ 
+Name: maps/mp/gametypes/_globallogic_spawn.gsc
+Pointer Address: 0x831EBF2C
+Buffer Address: 0xA5C39EC0
+Size: 0x3982
+ 
+Name: maps/mp/gametypes/_globallogic_ui.gsc
+Pointer Address: 0x831EBF38
+Buffer Address: 0xA5C3D880
+Size: 0x2862
+ 
+Name: maps/mp/gametypes/_globallogic_utils.gsc
+Pointer Address: 0x831EBF44
+Buffer Address: 0xA5C40120
+Size: 0x1B76
+ 
+Name: maps/mp/gametypes/_globallogic_vehicle.gsc
+Pointer Address: 0x831EBF50
+Buffer Address: 0xA5C41CE0
+Size: 0x1A25
+ 
+Name: maps/mp/gametypes/_healthoverlay.gsc
+Pointer Address: 0x831EBF5C
+Buffer Address: 0xA5C43740
+Size: 0xD13
+ 
+Name: maps/mp/gametypes/_hostmigration.gsc
+Pointer Address: 0x831EBF68
+Buffer Address: 0xA5C44480
+Size: 0x1489
+ 
+Name: maps/mp/gametypes/_hud.gsc
+Pointer Address: 0x831EBF74
+Buffer Address: 0xA5C45940
+Size: 0xDC7
+ 
+Name: maps/mp/gametypes/_hud_message.gsc
+Pointer Address: 0x831EBF80
+Buffer Address: 0xA5C46740
+Size: 0x5797
+ 
+Name: maps/mp/gametypes/_hud_util.gsc
+Pointer Address: 0x831EBF8C
+Buffer Address: 0xA5C4BF00
+Size: 0x3D12
+ 
+Name: maps/mp/gametypes/_killcam.gsc
+Pointer Address: 0x831EBF98
+Buffer Address: 0xA5C4FC40
+Size: 0x2F32
+ 
+Name: maps/mp/gametypes/_menus.gsc
+Pointer Address: 0x831EBFA4
+Buffer Address: 0xA5C52BA0
+Size: 0xEE5
+ 
+Name: maps/mp/gametypes/_objpoints.gsc
+Pointer Address: 0x831EBFB0
+Buffer Address: 0xA5C53AC0
+Size: 0x97A
+ 
+Name: maps/mp/gametypes/_perplayer.gsc
+Pointer Address: 0x831EBFBC
+Buffer Address: 0xA5C54460
+Size: 0x9D8
+ 
+Name: maps/mp/gametypes/_persistence.gsc
+Pointer Address: 0x831EBFC8
+Buffer Address: 0xA5C54E60
+Size: 0x290B
+ 
+Name: maps/mp/gametypes/_rank.gsc
+Pointer Address: 0x831EBFD4
+Buffer Address: 0xA5C577A0
+Size: 0x3B66
+ 
+Name: maps/mp/gametypes/_scoreboard.gsc
+Pointer Address: 0x831EBFE0
+Buffer Address: 0xA5C5B340
+Size: 0x1D2
+ 
+Name: maps/mp/gametypes/_serversetting.gsc
+Pointer Address: 0x831EBFEC
+Buffer Address: 0xA5C5B540
+Size: 0xC4D
+ 
+Name: maps/mp/gametypes/_shellshock.gsc
+Pointer Address: 0x831EBFF8
+Buffer Address: 0xA5C5C1C0
+Size: 0x4AE
+ 
+Name: maps/mp/gametypes/_spawning.gsc
+Pointer Address: 0x831EC004
+Buffer Address: 0xA5C5C6A0
+Size: 0x77E1
+ 
+Name: maps/mp/gametypes/_spawnlogic.gsc
+Pointer Address: 0x831EC010
+Buffer Address: 0xA5C63EC0
+Size: 0x6EC2
+ 
+Name: maps/mp/gametypes/_spectating.gsc
+Pointer Address: 0x831EC01C
+Buffer Address: 0xA5C6ADC0
+Size: 0xCA9
+ 
+Name: maps/mp/gametypes/_tweakables.gsc
+Pointer Address: 0x831EC028
+Buffer Address: 0xA5C6BAA0
+Size: 0x1AFA
+ 
+Name: maps/mp/gametypes/_wager.gsc
+Pointer Address: 0x831EC034
+Buffer Address: 0xA5C6D5C0
+Size: 0x3E3D
+ 
+Name: maps/mp/gametypes/_weapon_utils.gsc
+Pointer Address: 0x831EC040
+Buffer Address: 0xA5C71440
+Size: 0x5FA
+ 
+Name: maps/mp/gametypes/_weapons.gsc
+Pointer Address: 0x831EC04C
+Buffer Address: 0xA5C71A60
+Size: 0x80F8
+ 
+Name: maps/mp/gametypes/_weaponobjects.gsc
+Pointer Address: 0x831EC058
+Buffer Address: 0xA5C79B80
+Size: 0x9F21
+ 
+Name: maps/mp/gametypes/conf.gsc
+Pointer Address: 0x831EC064
+Buffer Address: 0xA5C83AC0
+Size: 0x3149
+ 
+Name: maps/mp/gametypes/ctf.gsc
+Pointer Address: 0x831EC070
+Buffer Address: 0xA5C86C40
+Size: 0x76F1
+ 
+Name: maps/mp/gametypes/dm.gsc
+Pointer Address: 0x831EC07C
+Buffer Address: 0xA5C8E360
+Size: 0x1042
+ 
+Name: maps/mp/gametypes/dem.gsc
+Pointer Address: 0x831EC088
+Buffer Address: 0xA5C8F3C0
+Size: 0x6D25
+ 
+Name: maps/mp/gametypes/dom.gsc
+Pointer Address: 0x831EC094
+Buffer Address: 0xA5C96100
+Size: 0x76DE
+ 
+Name: maps/mp/gametypes/gun.gsc
+Pointer Address: 0x831EC0A0
+Buffer Address: 0xA5C9D800
+Size: 0x271A
+ 
+Name: maps/mp/gametypes/hq.gsc
+Pointer Address: 0x831EC0AC
+Buffer Address: 0xA5C9FF40
+Size: 0x64BD
+ 
+Name: maps/mp/gametypes/oneflag.gsc
+Pointer Address: 0x831EC0B8
+Buffer Address: 0xA5CA6420
+Size: 0x8095
+ 
+Name: maps/mp/gametypes/sas.gsc
+Pointer Address: 0x831EC0C4
+Buffer Address: 0xA5CAE4E0
+Size: 0x1C8E
+ 
+Name: maps/mp/gametypes/koth.gsc
+Pointer Address: 0x831EC0D0
+Buffer Address: 0xA5CB01A0
+Size: 0x7001
+ 
+Name: maps/mp/gametypes/oic.gsc
+Pointer Address: 0x831EC0DC
+Buffer Address: 0xA5CB71C0
+Size: 0x1FA6
+ 
+Name: maps/mp/gametypes/sd.gsc
+Pointer Address: 0x831EC0E8
+Buffer Address: 0xA5CB9180
+Size: 0x5789
+ 
+Name: maps/mp/gametypes/shrp.gsc
+Pointer Address: 0x831EC0F4
+Buffer Address: 0xA5CBE940
+Size: 0x39A5
+ 
+Name: maps/mp/gametypes/tdm.gsc
+Pointer Address: 0x831EC100
+Buffer Address: 0xA5CC2300
+Size: 0x18C2
+ 
+Name: clientscripts/mp/gametypes/conf.csc
+Pointer Address: 0x831EC10C
+Buffer Address: 0xA5CC3C00
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/ctf.csc
+Pointer Address: 0x831EC118
+Buffer Address: 0xA5CC3D00
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/dm.csc
+Pointer Address: 0x831EC124
+Buffer Address: 0xA5CC3E00
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/dem.csc
+Pointer Address: 0x831EC130
+Buffer Address: 0xA5CC3F00
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/dom.csc
+Pointer Address: 0x831EC13C
+Buffer Address: 0xA5CC4000
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/gun.csc
+Pointer Address: 0x831EC148
+Buffer Address: 0xA5CC4100
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/hq.csc
+Pointer Address: 0x831EC154
+Buffer Address: 0xA5CC4200
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/sas.csc
+Pointer Address: 0x831EC160
+Buffer Address: 0xA5CC4300
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/koth.csc
+Pointer Address: 0x831EC16C
+Buffer Address: 0xA5CC4400
+Size: 0x6B1
+ 
+Name: clientscripts/mp/gametypes/oic.csc
+Pointer Address: 0x831EC178
+Buffer Address: 0xA5CC4AE0
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/sd.csc
+Pointer Address: 0x831EC184
+Buffer Address: 0xA5CC4BE0
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/shrp.csc
+Pointer Address: 0x831EC190
+Buffer Address: 0xA5CC4CE0
+Size: 0xC6
+ 
+Name: clientscripts/mp/gametypes/tdm.csc
+Pointer Address: 0x831EC19C
+Buffer Address: 0xA5CC4DE0
+Size: 0xC6
+ 
+Name: maps/mp/gametypes/_pregame.gsc
+Pointer Address: 0x831EC1A8
+Buffer Address: 0xA5CC4EE0
+Size: 0x1CC6
+ 
+Name: maps/mp/killstreaks/_straferun.gsc
+Pointer Address: 0x831EC1B4
+Buffer Address: 0xA5CC6BE0
+Size: 0x4BAF
+ 
+Name: maps/mp/killstreaks/_ai_tank.gsc
+Pointer Address: 0x831EC1C0
+Buffer Address: 0xA5CCB7C0
+Size: 0x6691
+ 
+Name: maps/mp/killstreaks/_airsupport.gsc
+Pointer Address: 0x831EC1CC
+Buffer Address: 0xA5CD1E80
+Size: 0x385A
+ 
+Name: maps/mp/killstreaks/_emp.gsc
+Pointer Address: 0x831EC1D8
+Buffer Address: 0xA5CD5700
+Size: 0x2459
+ 
+Name: maps/mp/killstreaks/_helicopter.gsc
+Pointer Address: 0x831EC1E4
+Buffer Address: 0xA5CD7B80
+Size: 0xB649
+ 
+Name: maps/mp/killstreaks/_helicopter_guard.gsc
+Pointer Address: 0x831EC1F0
+Buffer Address: 0xA5CE3200
+Size: 0x4106
+ 
+Name: maps/mp/killstreaks/_helicopter_gunner.gsc
+Pointer Address: 0x831EC1FC
+Buffer Address: 0xA5CE7340
+Size: 0x7D9E
+ 
+Name: maps/mp/killstreaks/_killstreakrules.gsc
+Pointer Address: 0x831EC208
+Buffer Address: 0xA5CEF120
+Size: 0x2606
+ 
+Name: maps/mp/killstreaks/_killstreaks.gsc
+Pointer Address: 0x831EC214
+Buffer Address: 0xA5CF1760
+Size: 0x79A1
+ 
+Name: maps/mp/killstreaks/_killstreak_weapons.gsc
+Pointer Address: 0x831EC220
+Buffer Address: 0xA5CF9140
+Size: 0x2A16
+ 
+Name: maps/mp/killstreaks/_missile_swarm.gsc
+Pointer Address: 0x831EC22C
+Buffer Address: 0xA5CFBB80
+Size: 0x35E1
+ 
+Name: maps/mp/killstreaks/_missile_drone.gsc
+Pointer Address: 0x831EC238
+Buffer Address: 0xA5CFF1A0
+Size: 0x2F4F
+ 
+Name: maps/mp/killstreaks/_planemortar.gsc
+Pointer Address: 0x831EC244
+Buffer Address: 0xA5D02120
+Size: 0x1FCA
+ 
+Name: maps/mp/killstreaks/_qrdrone.gsc
+Pointer Address: 0x831EC250
+Buffer Address: 0xA5D04120
+Size: 0x6BFD
+ 
+Name: maps/mp/killstreaks/_radar.gsc
+Pointer Address: 0x831EC25C
+Buffer Address: 0xA5D0AD40
+Size: 0x1919
+ 
+Name: maps/mp/killstreaks/_rcbomb.gsc
+Pointer Address: 0x831EC268
+Buffer Address: 0xA5D0C680
+Size: 0x3BEA
+ 
+Name: maps/mp/killstreaks/_remote_weapons.gsc
+Pointer Address: 0x831EC274
+Buffer Address: 0xA5D102A0
+Size: 0x218E
+ 
+Name: maps/mp/killstreaks/_remotemissile.gsc
+Pointer Address: 0x831EC280
+Buffer Address: 0xA5D12460
+Size: 0x5118
+ 
+Name: maps/mp/killstreaks/_remotemortar.gsc
+Pointer Address: 0x831EC28C
+Buffer Address: 0xA5D175A0
+Size: 0x4505
+ 
+Name: maps/mp/killstreaks/_spyplane.gsc
+Pointer Address: 0x831EC298
+Buffer Address: 0xA5D1BAE0
+Size: 0x483F
+ 
+Name: maps/mp/killstreaks/_supplycrate.gsc
+Pointer Address: 0x831EC2A4
+Buffer Address: 0xA5D20360
+Size: 0x95
+ 
+Name: maps/mp/killstreaks/_supplydrop.gsc
+Pointer Address: 0x831EC2B0
+Buffer Address: 0xA5D20420
+Size: 0xCA31
+ 
+Name: maps/mp/killstreaks/_turret_killstreak.gsc
+Pointer Address: 0x831EC2BC
+Buffer Address: 0xA5D2CE80
+Size: 0xB41E
+ 
+Name: maps/mp/teams/_teams.gsc
+Pointer Address: 0x831EC2C8
+Buffer Address: 0xA5D382C0
+Size: 0x1852
+ 
+Name: maps/mp/teams/_teamset.gsc
+Pointer Address: 0x831EC2D4
+Buffer Address: 0xA5D39B40
+Size: 0x1EE
+ 
+Name: maps/mp/bots/_bot.gsc
+Pointer Address: 0x831EC2E0
+Buffer Address: 0xA5D39D60
+Size: 0x9381
+ 
+Name: maps/mp/bots/_bot_combat.gsc
+Pointer Address: 0x831EC2EC
+Buffer Address: 0xA5D43100
+Size: 0x630D
+ 
+Name: maps/mp/bots/_bot_conf.gsc
+Pointer Address: 0x831EC2F8
+Buffer Address: 0xA5D49440
+Size: 0x69A
+ 
+Name: maps/mp/bots/_bot_ctf.gsc
+Pointer Address: 0x831EC304
+Buffer Address: 0xA5D49B00
+Size: 0x1922
+ 
+Name: maps/mp/bots/_bot_dem.gsc
+Pointer Address: 0x831EC310
+Buffer Address: 0xA5D4B440
+Size: 0x160C
+ 
+Name: maps/mp/bots/_bot_dom.gsc
+Pointer Address: 0x831EC31C
+Buffer Address: 0xA5D4CA80
+Size: 0x1BB7
+ 
+Name: maps/mp/bots/_bot_hack.gsc
+Pointer Address: 0x831EC328
+Buffer Address: 0xA5D4E660
+Size: 0xB93
+ 
+Name: maps/mp/bots/_bot_hq.gsc
+Pointer Address: 0x831EC334
+Buffer Address: 0xA5D4F220
+Size: 0x17B7
+ 
+Name: maps/mp/bots/_bot_koth.gsc
+Pointer Address: 0x831EC340
+Buffer Address: 0xA5D50A00
+Size: 0x15C6
+ 
+Name: maps/mp/bots/_bot_loadout.gsc
+Pointer Address: 0x831EC34C
+Buffer Address: 0xA5D52000
+Size: 0x2389
+ 
+Name: maps/mp/bots/_bot_sd.gsc
+Pointer Address: 0x831EC358
+Buffer Address: 0xA5D543C0
+Size: 0x1C57
+ 
+Name: clientscripts/mp/_acousticsensor.csc
+Pointer Address: 0x831EC364
+Buffer Address: 0xA5D56040
+Size: 0x8A1
+ 
+Name: clientscripts/mp/_ai_tank.csc
+Pointer Address: 0x831EC370
+Buffer Address: 0xA5D56900
+Size: 0x1506
+ 
+Name: clientscripts/mp/_airsupport.csc
+Pointer Address: 0x831EC37C
+Buffer Address: 0xA5D57E40
+Size: 0x1879
+ 
+Name: clientscripts/mp/_ambient.csc
+Pointer Address: 0x831EC388
+Buffer Address: 0xA5D596E0
+Size: 0x2187
+ 
+Name: clientscripts/mp/_ambientpackage.csc
+Pointer Address: 0x831EC394
+Buffer Address: 0xA5D5B8A0
+Size: 0x3F65
+ 
+Name: clientscripts/mp/_audio.csc
+Pointer Address: 0x831EC3A0
+Buffer Address: 0xA5D5F840
+Size: 0x3917
+ 
+Name: clientscripts/mp/_bouncingbetty.csc
+Pointer Address: 0x831EC3AC
+Buffer Address: 0xA5D63180
+Size: 0x612
+ 
+Name: clientscripts/mp/_burnplayer.csc
+Pointer Address: 0x831EC3B8
+Buffer Address: 0xA5D637C0
+Size: 0x326
+ 
+Name: clientscripts/mp/_busing.csc
+Pointer Address: 0x831EC3C4
+Buffer Address: 0xA5D63B20
+Size: 0xA5E
+ 
+Name: clientscripts/mp/_callbacks.csc
+Pointer Address: 0x831EC3D0
+Buffer Address: 0xA5D645A0
+Size: 0x2A32
+ 
+Name: clientscripts/mp/_cameraspike.csc
+Pointer Address: 0x831EC3DC
+Buffer Address: 0xA5D67000
+Size: 0xE86
+ 
+Name: clientscripts/mp/_claymore.csc
+Pointer Address: 0x831EC3E8
+Buffer Address: 0xA5D67EC0
+Size: 0x285
+ 
+Name: clientscripts/mp/_counteruav.csc
+Pointer Address: 0x831EC3F4
+Buffer Address: 0xA5D68180
+Size: 0x362
+ 
+Name: clientscripts/mp/_ctf.csc
+Pointer Address: 0x831EC400
+Buffer Address: 0xA5D68500
+Size: 0x1CA
+ 
+Name: clientscripts/mp/_destructible.csc
+Pointer Address: 0x831EC40C
+Buffer Address: 0xA5D68700
+Size: 0x24A
+ 
+Name: clientscripts/mp/_rotating_object.csc
+Pointer Address: 0x831EC418
+Buffer Address: 0xA5D68980
+Size: 0x393
+ 
+Name: clientscripts/mp/_decoy.csc
+Pointer Address: 0x831EC424
+Buffer Address: 0xA5D68D40
+Size: 0x251
+ 
+Name: clientscripts/mp/_dogs.csc
+Pointer Address: 0x831EC430
+Buffer Address: 0xA5D68FC0
+Size: 0x16C9
+ 
+Name: clientscripts/mp/_explode.csc
+Pointer Address: 0x831EC43C
+Buffer Address: 0xA5D6A6C0
+Size: 0x87D
+ 
+Name: clientscripts/mp/_explosive_bolt.csc
+Pointer Address: 0x831EC448
+Buffer Address: 0xA5D6AF80
+Size: 0x82A
+ 
+Name: clientscripts/mp/_filter.csc
+Pointer Address: 0x831EC454
+Buffer Address: 0xA5D6B7E0
+Size: 0x786
+ 
+Name: clientscripts/mp/_footsteps.csc
+Pointer Address: 0x831EC460
+Buffer Address: 0xA5D6BFA0
+Size: 0xE9F
+ 
+Name: clientscripts/mp/_fx.csc
+Pointer Address: 0x831EC46C
+Buffer Address: 0xA5D6CE60
+Size: 0x2502
+ 
+Name: clientscripts/mp/_fxanim.csc
+Pointer Address: 0x831EC478
+Buffer Address: 0xA5D6F380
+Size: 0x1416
+ 
+Name: clientscripts/mp/_global_fx.csc
+Pointer Address: 0x831EC484
+Buffer Address: 0xA5D707C0
+Size: 0x1873
+ 
+Name: clientscripts/mp/_helicopter.csc
+Pointer Address: 0x831EC490
+Buffer Address: 0xA5D72060
+Size: 0x198A
+ 
+Name: clientscripts/mp/_helicopter_sounds.csc
+Pointer Address: 0x831EC49C
+Buffer Address: 0xA5D73A20
+Size: 0x4D51
+ 
+Name: clientscripts/mp/_lights.csc
+Pointer Address: 0x831EC4A8
+Buffer Address: 0xA5D787A0
+Size: 0x4129
+ 
+Name: clientscripts/mp/_load.csc
+Pointer Address: 0x831EC4B4
+Buffer Address: 0xA5D7C900
+Size: 0x1739
+ 
+Name: clientscripts/mp/_missile_swarm.csc
+Pointer Address: 0x831EC4C0
+Buffer Address: 0xA5D7E060
+Size: 0xACE
+ 
+Name: clientscripts/mp/_missile_drone.csc
+Pointer Address: 0x831EC4CC
+Buffer Address: 0xA5D7EB60
+Size: 0xA55
+ 
+Name: clientscripts/mp/_multi_extracam.csc
+Pointer Address: 0x831EC4D8
+Buffer Address: 0xA5D7F5E0
+Size: 0x3D6
+ 
+Name: clientscripts/mp/_music.csc
+Pointer Address: 0x831EC4E4
+Buffer Address: 0xA5D7F9E0
+Size: 0x222A
+ 
+Name: clientscripts/mp/_planemortar.csc
+Pointer Address: 0x831EC4F0
+Buffer Address: 0xA5D81C40
+Size: 0x2C2
+ 
+Name: clientscripts/mp/_players.csc
+Pointer Address: 0x831EC4FC
+Buffer Address: 0xA5D81F40
+Size: 0x5F9
+ 
+Name: clientscripts/mp/_qrdrone.csc
+Pointer Address: 0x831EC508
+Buffer Address: 0xA5D82560
+Size: 0x1A6A
+ 
+Name: clientscripts/mp/_rcbomb.csc
+Pointer Address: 0x831EC514
+Buffer Address: 0xA5D84000
+Size: 0x2C49
+ 
+Name: clientscripts/mp/_remotemissile.csc
+Pointer Address: 0x831EC520
+Buffer Address: 0xA5D86C80
+Size: 0x726
+ 
+Name: clientscripts/mp/_rewindobjects.csc
+Pointer Address: 0x831EC52C
+Buffer Address: 0xA5D873E0
+Size: 0x103E
+ 
+Name: clientscripts/mp/_riotshield.csc
+Pointer Address: 0x831EC538
+Buffer Address: 0xA5D88440
+Size: 0x842
+ 
+Name: clientscripts/mp/_satchel_charge.csc
+Pointer Address: 0x831EC544
+Buffer Address: 0xA5D88CC0
+Size: 0x60E
+ 
+Name: clientscripts/mp/_scrambler.csc
+Pointer Address: 0x831EC550
+Buffer Address: 0xA5D89300
+Size: 0x1AB2
+ 
+Name: clientscripts/mp/_sticky_grenade.csc
+Pointer Address: 0x831EC55C
+Buffer Address: 0xA5D8ADE0
+Size: 0x85E
+ 
+Name: clientscripts/mp/_proximity_grenade.csc
+Pointer Address: 0x831EC568
+Buffer Address: 0xA5D8B680
+Size: 0x11F5
+ 
+Name: clientscripts/mp/_tacticalinsertion.csc
+Pointer Address: 0x831EC574
+Buffer Address: 0xA5D8C8A0
+Size: 0x919
+ 
+Name: clientscripts/mp/_teamset_seals.csc
+Pointer Address: 0x831EC580
+Buffer Address: 0xA5D8D1E0
+Size: 0xD2
+ 
+Name: clientscripts/mp/_treadfx.csc
+Pointer Address: 0x831EC58C
+Buffer Address: 0xA5D8D2E0
+Size: 0xA7D
+ 
+Name: clientscripts/mp/_trophy_system.csc
+Pointer Address: 0x831EC598
+Buffer Address: 0xA5D8DDA0
+Size: 0xA6A
+ 
+Name: clientscripts/mp/_turret.csc
+Pointer Address: 0x831EC5A4
+Buffer Address: 0xA5D8E840
+Size: 0x7BE
+ 
+Name: clientscripts/mp/_utility.csc
+Pointer Address: 0x831EC5B0
+Buffer Address: 0xA5D8F020
+Size: 0x3643
+ 
+Name: clientscripts/mp/_utility_code.csc
+Pointer Address: 0x831EC5BC
+Buffer Address: 0xA5D926A0
+Size: 0x63D
+ 
+Name: clientscripts/mp/_vehicle.csc
+Pointer Address: 0x831EC5C8
+Buffer Address: 0xA5D92D00
+Size: 0x12F9
+ 
+Name: clientscripts/_radiant_live_update.csc
+Pointer Address: 0x831EC5D4
+Buffer Address: 0xA5D94040
+Size: 0x1E9
+ 
+Name: codescripts/struct.csc
+Pointer Address: 0x831EC5E0
+Buffer Address: 0xA5D94260
+Size: 0x1A2
+ 
+Name: codescripts/delete.csc
+Pointer Address: 0x831EC5EC
+Buffer Address: 0xA5D94420
+Size: 0x236
+ 
+Name: codescripts/delete.gsc
+Pointer Address: 0x831EC5F8
+Buffer Address: 0xA5D94680
+Size: 0x236
+ 
+Name: codescripts/struct.gsc
+Pointer Address: 0x831EC604
+Buffer Address: 0xA5D948E0
+Size: 0x29D
+ 
+Name: maps/mp/teams/_teamset_multiteam.gsc
+Pointer Address: 0x831EC610
+Buffer Address: 0xA5D94BC0
+Size: 0x1D93
+ 
+Name: maps/mp/mp_carrier.gsc
+Pointer Address: 0x831EC61C
+Buffer Address: 0xA5D96980
+Size: 0x145C
+ 
+Name: maps/mp/mp_dockside.gsc
+Pointer Address: 0x831EC628
+Buffer Address: 0xA5D97E00
+Size: 0x1171
+ 
+Name: maps/mp/mp_dockside_crane.gsc
+Pointer Address: 0x831EC634
+Buffer Address: 0xA5D98FA0
+Size: 0x3744
+ 
+Name: maps/mp/mp_express_train.gsc
+Pointer Address: 0x831EC640
+Buffer Address: 0xA5D9C720
+Size: 0x29E9
+ 
+Name: maps/mp/mp_nightclub.gsc
+Pointer Address: 0x831EC64C
+Buffer Address: 0xA5D9F140
+Size: 0x14A6
+ 
+Name: maps/mp/mp_village.gsc
+Pointer Address: 0x831EC658
+Buffer Address: 0xA5DA0600
+Size: 0x1635
+ 
+Name: maps/mp/mp_overflow.gsc
+Pointer Address: 0x831EC664
+Buffer Address: 0xA5DA1C60
+Size: 0x16AC
+ 
+Name: maps/mp/mp_la.gsc
+Pointer Address: 0x831EC670
+Buffer Address: 0xA5DA3320
+Size: 0x140E
+ 
+Name: maps/mp/mp_meltdown.gsc
+Pointer Address: 0x831EC67C
+Buffer Address: 0xA5DA4760
+Size: 0x750
+ 
+Name: maps/mp/mp_drone.gsc
+Pointer Address: 0x831EC688
+Buffer Address: 0xA5DA4EE0
+Size: 0x1139
+ 
+Name: maps/mp/mp_express.gsc
+Pointer Address: 0x831EC694
+Buffer Address: 0xA5DA6040
+Size: 0x935
+ 
+Name: maps/mp/mp_hijacked.gsc
+Pointer Address: 0x831EC6A0
+Buffer Address: 0xA5DA69A0
+Size: 0x1904
+ 
+Name: maps/mp/mp_raid.gsc
+Pointer Address: 0x831EC6AC
+Buffer Address: 0xA5DA82C0
+Size: 0xDF6
+ 
+Name: maps/mp/mp_slums.gsc
+Pointer Address: 0x831EC6B8
+Buffer Address: 0xA5DA90E0
+Size: 0x248C
+ 
+Name: maps/mp/mp_socotra.gsc
+Pointer Address: 0x831EC6C4
+Buffer Address: 0xA5DAB5A0
+Size: 0xDB9
+ 
+Name: maps/mp/mp_turbine.gsc
+Pointer Address: 0x831EC6D0
+Buffer Address: 0xA5DAC380
+Size: 0x139B
+ 
+Name: maps/mp/mp_nuketown_2020.gsc
+Pointer Address: 0x831EC6DC
+Buffer Address: 0xA5DAD740
+Size: 0x33F4
+ 
+Name: maps/mp/mp_downhill_cablecar.gsc
+Pointer Address: 0x831EC6E8
+Buffer Address: 0xA5DB0B60
+Size: 0x3385
+ 
+Name: maps/mp/mp_downhill.gsc
+Pointer Address: 0x831EC6F4
+Buffer Address: 0xA5DB3F00
+Size: 0xAAC
+ 
+Name: maps/mp/mp_hydro.gsc
+Pointer Address: 0x831EC700
+Buffer Address: 0xA5DB49E0
+Size: 0x3169
+ 
+Name: maps/mp/mp_skate.gsc
+Pointer Address: 0x831EC70C
+Buffer Address: 0xA5DB7B60
+Size: 0xAAC
+ 
+Name: maps/mp/mp_mirage.gsc
+Pointer Address: 0x831EC718
+Buffer Address: 0xA5DB8640
+Size: 0x7F4
+ 
+Name: maps/mp/mp_concert.gsc
+Pointer Address: 0x831EC724
+Buffer Address: 0xA5DB8E60
+Size: 0xC8C
+ 
+Name: maps/mp/mp_magma.gsc
+Pointer Address: 0x831EC730
+Buffer Address: 0xA5DB9B20
+Size: 0x1BC5
+ 
+Name: maps/mp/mp_studio.gsc
+Pointer Address: 0x831EC73C
+Buffer Address: 0xA5DBB700
+Size: 0x1F19
+ 
+Name: maps/mp/mp_vertigo.gsc
+Pointer Address: 0x831EC748
+Buffer Address: 0xA5DBD640
+Size: 0xFB6
+ 
+Name: maps/mp/mp_bridge.gsc
+Pointer Address: 0x831EC754
+Buffer Address: 0xA5DBE620
+Size: 0x1AA0
+ 
+Name: maps/mp/mp_castaway.gsc
+Pointer Address: 0x831EC760
+Buffer Address: 0xA5DC00E0
+Size: 0xC4E
+ 
+Name: maps/mp/mp_paintball.gsc
+Pointer Address: 0x831EC76C
+Buffer Address: 0xA5DC0D60
+Size: 0x134B
+ 
+Name: maps/mp/mp_uplink.gsc
+Pointer Address: 0x831EC778
+Buffer Address: 0xA5DC20E0
+Size: 0xFE5
+ 
+Name: maps/mp/mp_dig.gsc
+Pointer Address: 0x831EC784
+Buffer Address: 0xA5DC30E0
+Size: 0xA20
+ 
+Name: maps/mp/mp_frostbite.gsc
+Pointer Address: 0x831EC790
+Buffer Address: 0xA5DC3B20
+Size: 0x18CD
+ 
+Name: maps/mp/mp_pod.gsc
+Pointer Address: 0x831EC79C
+Buffer Address: 0xA5DC5420
+Size: 0xCF2
+ 
+Name: maps/mp/mp_takeoff.gsc
+Pointer Address: 0x831EC7A8
+Buffer Address: 0xA5DC6140
+Size: 0x2159
+ 
+Name: clientscripts/mp/mp_express.csc
+Pointer Address: 0x831EC7B4
+Buffer Address: 0xA5DC82C0
+Size: 0xC9D
+ 
+Name: clientscripts/mp/mp_dockside.csc
+Pointer Address: 0x831EC7C0
+Buffer Address: 0xA5DC8F80
+Size: 0x681
+ 
+Name: clientscripts/mp/mp_drone_fx.csc
+Pointer Address: 0x831EC7CC
+Buffer Address: 0xA5DC9640
+Size: 0x263D
+ 
+Name: clientscripts/mp/mp_hydro.csc
+Pointer Address: 0x831EC7D8
+Buffer Address: 0xA5DCBCA0
+Size: 0x189D
+ 
+Name: clientscripts/mp/mp_overflow.csc
+Pointer Address: 0x831EC7E4
+Buffer Address: 0xA5DCD560
+Size: 0x30E
+ 
+Name: clientscripts/mp/mp_carrier.csc
+Pointer Address: 0x831EC7F0
+Buffer Address: 0xA5DCD8A0
+Size: 0x80F
+ 
+Name: clientscripts/mp/mp_nuketown_2020.csc
+Pointer Address: 0x831EC7FC
+Buffer Address: 0xA5DCE0E0
+Size: 0xD01
+ 
+Name: clientscripts/mp/mp_raid.csc
+Pointer Address: 0x831EC808
+Buffer Address: 0xA5DCEE00
+Size: 0x2EA
+ 
+Name: clientscripts/mp/mp_hijacked.csc
+Pointer Address: 0x831EC814
+Buffer Address: 0xA5DCF120
+Size: 0x5EA
+ 
+Name: clientscripts/mp/createfx/mp_concert_fx.csc
+Pointer Address: 0x831EC820
+Buffer Address: 0xA5DCF740
+Size: 0x94F9
+ 
+Name: clientscripts/mp/mp_uplink.csc
+Pointer Address: 0x831EC82C
+Buffer Address: 0xA5DD8C60
+Size: 0x1A99
+ 
+Name: maps/mp/animscripts/dog_combat.gsc
+Pointer Address: 0x831EC838
+Buffer Address: 0xA5DDA720
+Size: 0x9C9
+ 
+Name: maps/mp/animscripts/dog_init.gsc
+Pointer Address: 0x831EC844
+Buffer Address: 0xA5DDB120
+Size: 0x6CF

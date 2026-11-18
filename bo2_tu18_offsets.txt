@@ -1,0 +1,372 @@
+~~Cheat Protection~~
+Cheat Protection Challenges: 0x8259A65C
+Cheat Protection Calls: 0x82497EB0 | Bytes: 60 00 00 00
+Cheat Protection Cheat: 0x82497F30
+Cheat Protection Write: 0x82497EE0
+Cheat Protection Read: 0x82497EC8
+Cheat Protection Ban 1: 0x82599680
+Cheat Protection Ban 2: 0x82599670
+Cheat Protection Ban 3: 0x82599628
+Cheat Protection Ban 4: 0x8259964C
+Cheat Protection Ban Checks: 0x825996AC
+Cheat Protection Console Checks: 0x825996B4
+Cheat Protection XUID Checks: 0x82599644
+Cheat Protection Data Monitor: 0x827DB494
+Cheat Protection Module Handler: 0x824E0CD8
+Cheat Protection DemonWare 1: 0x82273D7C
+Cheat Protection DemonWare 2: 0x825035F8
+Cheat Protection DemonWare 3: 0x8236CE5C
+
+~~Functions~~
+Dvar_GetFloat: 0x8229F028
+Dvar_GetBool: 0x82154FF8
+Dvar_GetInt_t: 0x82154FF8
+
+~~Multiplayer~~
+SV_SendServerCommand: 0x8242FB70
+Console CMD: 0x824015E0
+SV_SetClientStats: 0x82085654
+Class Item Count: 0x826A5FBC
+Jump Height: 0x82085654
+Jump Height Float: 0x82077EB4
+Fall Damage: 0x82003FD4
+Fall Damage Float: 0x820014C0
+Body Color: 0x83C56038
+PlayerState: 0x83551A10 + 0x57F8
+PlayerState Size: 0x57F8
+gEntity: 0x833D0640
+gEntity Size: 0x31C
+G_Entity: 0x833BFDC0
+SV_Server: 0x8242FB70
+Console_cmd: 0x824015E0
+Key_IsDown: 0x82C0CDA8
+God Mod: 0x823229D0
+God Mode For All: 0x822C1A40
+Max Ammo: 0x826BE6C8
+White Man: 0x82020400 | Bytes: 40
+UAV: 0x821B908C
+UAV For All: 0x8216533C
+
+~~Visual Mods~~
+Redbox On: 0x821F5B7F | Bytes: 01
+Redbox Off: 0x821F5B7F | Bytes: 00
+Laser On: 0x82255E1C | Bytes: 2B 11 00 01
+Laser Off: 0x82255E1C | Bytes: ED AA F2 B0
+Chams On: 0x821FC04C | Bytes: 38 C0 FF FF
+Chams Off: 0x821FC04C | Bytes: 7F A6 EB 78
+No-Recoil On: 0x82259BC8 | Bytes: 60 00 00 00
+No-Recoil Off: 0x82259BC8 | Bytes: 48 46 13 04
+No-Sway: 0x826C6E6C
+No-Spread On: 0x826BB50C | Bytes: 39 60 00 02
+No-Spread Off: 0x826BB50C | Bytes: 81 7B 01 EC
+V-SAT On: 0x821B8FD3 | Bytes: 01
+V-SAT Off: 0x821B8FD3 | Bytes: 00
+Remove Cold-Blooded: 0x821F608C
+Crosshair 1: 0x826BB6C4
+Crosshair 2: 0x82000DCC
+Crosshair 3: 0x826BB6C4
+
+~~PlayerState Offsets~~
+In-Game Gamertag: 0x83551A10 + 0x5534
+Camo Flag: 0x83551A10 + 0x2DB
+Invisibility: 0x83551A10 + 0xFF
+X Position: 0x83551A10 + 0x28
+Y Position: 0x83551A10 + 0x2C
+Z Position: 0x83551A10 + 0x30
+JetPack: 0x83551A10 + 0x3C
+Max Ammo MP: 0x83551A10 + 0x43A
+Max Ammo ZM: 0x83551A10 + 0x436
+
+~~gEntity Offsets~~
+Health: 0x833D0640 + 0x1AB
+
+~~MP Stats~~
+Stat Entry: 0x840C0500
+Stats Entry Point: 0x843489C8
+Kills: 0x84348D00
+Deaths: 0x84348AD2
+Kill Streak: 0x84348FE8
+Hits: 0x84348A45
+Prestige: 0x843491A4
+XP Level: 0x843491BC
+Misses: 0x843492CA
+Games Played: 0x83583941
+Head Shots: 0x839ADBB1
+Losses: 0x84348D72
+Score: 0x843491E0
+Total Shots: 0x839ADC06
+Time Played: 0x8434929A
+Win Loss Ratio: 0x839ADC0A
+Prestige Tokens: 0x8435292E
+Wins: 0x843492E2
+Win Streak: 0x835839A3
+Unlock Entry Titles: 0x8435429F
+Unlock Entry Weapons: 0x8434AF80
+
+~~Class 1~~
+Class 1 Primary: 0x84353A4A
+Class 1 Secondary: 0x84353A58
+Class 1 Primary Camo: 0x84353A50
+Class 1 Secondary Camo: 0x84353A5D
+Class 1 Perk 1: 0x84353A66
+Class 1 Perk 2: 0x84353A67
+Class 1 Perk 3: 0x84353A68
+Class 1 Lethal: 0x84353A6C
+Class 1 Tactical: 0x84353A6D
+
+~~Class 2~~
+Class 2 Primary: 0x84353A7E
+Class 2 Secondary: 0x84353A8C
+Class 2 Primary Camo: 0x84353A83
+Class 2 Secondary Camo: 0x84353A92
+Class 2 Perk 1: 0x84353A9A
+Class 2 Perk 2: 0x84353A9B
+Class 2 Perk 3: 0x84353A9C
+Class 2 Lethal: 0x84353AA0
+Class 2 Tactical: 0x84353AA1
+
+~~Class 3~~
+Class 3 Primary: 0x84353AB2
+Class 3 Secondary: 0x84353AC1
+Class 3 Primary Camo: 0x84353AB9
+Class 3 Secondary Camo: 0x84353AC6
+Class 3 Perk 1: 0x84353ACF
+Class 3 Perk 2: 0x84353AD0
+Class 3 Perk 3: 0x84353AD1
+Class 3 Lethal: 0x84353AD5
+Class 3 Tactical: 0x84353AD6
+
+~~Class 4~~
+Class 4 Primary: 0x84353AE7
+Class 4 Secondary: 0x84353AF5
+Class 4 Primary Camo: 0x84353AED
+Class 4 Secondary Camo: 0x84353AFB
+Class 4 Perk 1: 0x84353B03
+Class 4 Perk 2: 0x84353B04
+Class 4 Perk 3: 0x84353B05
+Class 4 Lethal: 0x84353B09
+Class 4 Tactical: 0x84353B0C
+
+~~Class 5~~
+Class 5 Primary: 0x84353B1C
+Class 5 Secondary: 0x84353B2A
+Class 5 Primary Camo: 0x84353B22
+Class 5 Secondary Camo: 0x84353B30
+Class 5 Perk 1: 0x84353B38
+Class 5 Perk 2: 0x84353B39
+Class 5 Perk 3: 0x84353B3A
+Class 5 Lethal: 0x84353B3E
+Class 5 Tactical: 0x84353B40
+
+~~Class 6~~
+Class 6 Primary: 0x84353B50
+Class 6 Secondary: 0x84353B5E
+Class 6 Primary Camo: 0x84353B56
+Class 6 Secondary Camo: 0x84353B64
+Class 6 Perk 1: 0x84353B6C
+Class 6 Perk 2: 0x84353B6D
+Class 6 Perk 3: 0x84353B6E
+Class 6 Lethal: 0x84353B72
+Class 6 Tactical: 0x84353B75
+
+~~Class 7~~
+Class 7 Primary: 0x84353B85
+Class 7 Secondary: 0x84353B93
+Class 7 Primary Camo: 0x84353B8B
+Class 7 Secondary Camo: 0x84353B99
+Class 7 Perk 1: 0x84353BA1
+Class 7 Perk 2: 0x84353BA2
+Class 7 Perk 3: 0x84353BA3
+Class 7 Lethal: 0x84353BA7
+Class 7 Tactical: 0x84353BA9
+
+~~Class 8~~
+Class 8 Primary: 0x84353BB9
+Class 8 Secondary: 0x84353BC7
+Class 8 Primary Camo: 0x84353BBF
+Class 8 Secondary Camo: 0x84353BCD
+Class 8 Perk 1: 0x84353BD5
+Class 8 Perk 2: 0x84353BD6
+Class 8 Perk 3: 0x84353BD7
+Class 8 Lethal: 0x84353BDB
+Class 8 Tactical: 0x84353BDE
+
+~~Class 9~~
+Class 9 Primary: 0x84353BEE
+Class 9 Secondary: 0x84353BFC
+Class 9 Primary Camo: 0x84353BF4
+Class 9 Secondary Camo: 0x84353C02
+Class 9 Perk 1: 0x84353C0A
+Class 9 Perk 2: 0x84353C0B
+Class 9 Perk 3: 0x84353C0C
+Class 9 Lethal: 0x84353C10
+Class 9 Tactical: 0x84353C12
+
+~~Class 10~~
+Class 10 Primary: 0x84353C22
+Class 10 Secondary: 0x84353C30
+Class 10 Primary Camo: 0x84353C28
+Class 10 Secondary Camo: 0x84353C36
+Class 10 Perk 1: 0x84353C3E
+Class 10 Perk 2: 0x84353C3F
+Class 10 Perk 3: 0x84353C40
+Class 10 Lethal: 0x84353C44
+Class 10 Tactical: 0x84353C47
+
+~~Camo Values~~
+Camo NONE: 0x1
+Camo DEVGRU: 0x5
+Camo ATAC: 0x9
+Camo ERDL: 0xD
+Camo Siberia: 0x11
+Camo Choco: 0x15
+Camo BlueTiger: 0x19
+Camo Bloodshot: 0x1D
+Camo Ghostex: 0x21
+Camo Kryptek: 0x25
+Camo Carbon: 0x29
+Camo CherryBlossom: 0x2D
+Camo ArtofWar: 0x31
+Camo Ronin: 0x35
+Camo Skulls: 0x39
+Camo Gold: 0x3D
+Camo Diamond: 0x41
+Camo EliteMember: 0x45
+Camo CEDigital: 0x48
+Camo Jungle: 0xB7
+Camo Benjamins: 0xBC
+Camo DiaDeMuertos: 0xC0
+Camo Graffiti: 0xC4
+Camo Kawaii: 0xC8
+Camo PartyRock: 0xCC
+Camo Zombies: 0xD0
+Camo Viper: 0xD4
+Camo Bacon: 0xD8
+Camo UK: 0xB8
+
+~~Ghosts Perm Class 1~~
+Ghosts Class 1 Primary: 0x51A1 | Bytes: 51 A1
+Ghosts Class 1 Secondary: 0x00A8 | Bytes: 00 A8
+
+~~Ghosts Perm Class 2~~
+Ghosts Class 2 Primary: 0x0015 | Bytes: 00 00 15
+Ghosts Class 2 Secondary: 0x00A8 | Bytes: 00 A8
+
+~~Ghosts Perm Class 3~~
+Ghosts Class 3 Primary: 0x5001 | Bytes: 50 01
+Ghosts Class 3 Secondary: 0x00A8 | Bytes: 00 A8
+
+~~Ghosts Perm Class 4~~
+Ghosts Class 4 Primary: 0x0015 | Bytes: 00 15
+Ghosts Class 4 Secondary: 0x800A | Bytes: 80 0A
+
+~~Ghosts Perm Class 5~~
+Ghosts Class 5 Primary: 0x5001 | Bytes: 50 01
+Ghosts Class 5 Secondary: 0xA800 | Bytes: A8 00
+
+~~Ghosts Perm Class 6~~
+Ghosts Class 6 Primary: 0x0015 | Bytes: 00 15
+Ghosts Class 6 Secondary: 0x800A | Bytes: 80 0A
+
+~~Ghosts Perm Class 7~~
+Ghosts Class 7 Primary: 0x5001 | Bytes: 50 01
+Ghosts Class 7 Secondary: 0x800A | Bytes: 80 0A
+
+~~Ghosts Perm Class 8~~
+Ghosts Class 8 Primary: 0x0015 | Bytes: 00 15
+Ghosts Class 8 Secondary: 0x800A | Bytes: 80 0A
+
+~~Ghosts Perm Class 9~~
+Ghosts Class 9 Primary: 0x5001 | Bytes: 50 01
+Ghosts Class 9 Secondary: 0xA800 | Bytes: A8 00
+
+~~Ghosts Perm Class 10~~
+Ghosts Class 10 Primary: 0x0015 | Bytes: 00 15
+Ghosts Class 10 Secondary: 0x800A | Bytes: 80 0A
+
+~~Zombies~~
+ZM Points: 0x83551A10 + 0x55C8
+ZM Score: 0x83551A10 + 0x55C8
+ZM Ammo Slot 1: 0x83551A10 + 0x428
+ZM Ammo Slot 2: 0x83551A10 + 0x42C
+ZM Ammo Slot 3: 0x83551A10 + 0x430
+ZM Ammo Slot 4: 0x83551A10 + 0x434
+ZM Ammo Slot 5: 0x83551A10 + 0x438
+ZM Ammo Slot 6: 0x83551A10 + 0x43C
+
+~~ZM Stats~~
+ZM Stat Entry: 0x843489C8
+ZM Bullets Total: 0x84348AD0
+ZM Miles Traveled: 0x84348ACC
+ZM Perks: 0x84348AA8
+ZM Revives: 0x84348AA4
+ZM XP: 0x84348C00
+ZM Kills: 0x84348A9C
+ZM Deaths: 0x84348AD8
+ZM Head Shots: 0x84348A14
+ZM Doors: 0x84348AC8
+
+~~HUD Elements~~
+HudElem_Alloc: 0x822C9110
+HudElem_Alloc TU18: 0x8232A280
+HudElem_Free: 0x82319130
+HECmd ScaleOverTime: 0x822CC860
+HECmd FadeOverTime: 0x822CC580
+HECmd MoveOverTime: 0x822CC9A0
+
+~~Graphics~~
+G_MaterialIndex: 0x823253A0
+G_MaterialIndex TU18: 0x82388CE0
+Material: 0x821995A8
+
+~~Localization~~
+G_LocalizeStringIndex: 0x82325180
+G_LocalizedStringIndex TU18: 0x82388AC0
+LocalizeText: 0x82325180
+LocString: 0x826DA0D4
+LocalizedStringIndex: 0x82325180
+LocalizedMaterialIndex: 0x823253A0
+
+~~Game Functions~~
+Level_Time: 0x833D7018
+SV_GameSendServerCommand: 0x823BF120
+StatEntry: 0x840C0500
+CheatProtection: 0x82423238
+GameType: 0x82BDBFF0
+SV_SetConfigstring: 0x823C19F0
+Cbuf_addText: 0x82110108
+Scr_PlayFX: 0x821B8D48
+SetClientViewAngles: 0x822AEF20
+PlayerCmd_Suicide: 0x822B3498
+GScr_Spawn: 0x822FAC98
+Player_Die: 0x822C4038
+SetModel: 0x82110230
+Set Model TU18: 0x823897A0
+
+~~Weapon Functions~~
+GivePlayerWeapon: 0x823ACB78
+G_GivePlayerWeapon TU18: 0x823ACB78
+WeaponIndexForName: 0x823AB8B8
+G_GetWeaponIndexForName TU18: 0x823AB8B8
+GiveAmmo: 0x823120E0
+G_InitializeAmmo TU18: 0x823120E0
+GetViewmodelWeaponIndex: 0x82603B30
+BG_GetViewModelWeaponIndex TU18: 0x826B40D8
+
+~~DemonWare~~
+DemonWare_1: 0x82273D7C
+DemonWare_2: 0x825035F8
+DemonWare_3: 0x8236CE5C
+
+~~Console~~
+Console_t: 0x82393F28
+Key_IsDown All: 0x8269F6D0
+
+~~My Own Addresses/Offsets~~
+R13_Base: 0x8217C804 + 0x100
+Global100: 0x8217C904 + 0x58
+Primary Ammo Clip: 0x83551E4D
+Lethal Count: 0x83551E56
+Tactical Count: 0x83551E5A
+No ADS: 0x833D064B  Bytes: 80 0A
+ADS: 

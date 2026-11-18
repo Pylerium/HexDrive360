@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>HexDump360</AssemblyName>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Prevent SDK from auto-generating assembly attributes that can conflict -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <!-- Do not generate the TargetFrameworkAttribute here (prevents duplicate attribute errors) -->
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <!-- CA1416 (platform compatibility) misfires because the TargetFramework attribute is not generated; this is a Windows-only app -->
+    <NoWarn>$(NoWarn);CA1416</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="xextool\**" />
+    <EmbeddedResource Remove="xextool\**" />
+    <None Remove="xextool\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="bo2_tu18_offsets.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!-- T6 (Black Ops II) GSC compiler: Irony grammar + bytecode writer, emits big-endian console scripts -->
+  <ItemGroup>
+    <Reference Include="Compiler">
+      <HintPath>ThirdParty\Gsc\Compiler.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="Irony">
+      <HintPath>ThirdParty\Gsc\Irony.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <None Update="ThirdParty\Gsc\*.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>Gsc\%(Filename)%(Extension)</Link>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Scintilla5.NET" Version="7.1.1" />
+    <PackageReference Include="WeifenLuo.WinFormsUI.Docking" Version="2.1.0" />
+  </ItemGroup>
+
+</Project>

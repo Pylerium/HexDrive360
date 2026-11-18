@@ -1,0 +1,924 @@
+// Game: default.xex
+// Build: Unknown build
+// Title ID: 4D5707D6
+// Module: default.xex
+// Base: 0x82000000
+// Timestamp: 0x00000000
+// Checksum: 0x00000000
+// Version: 
+// Source: Runtime pull
+// Generated: 2026-11-11 23:01 by Memory Editor Pro · 906 offsets
+
+~~Functions~~
+XLNI_DASH_ARCADE: 0x82A4A390
+XLNI_DET_MEDIA: 0x82A4A390
+PixelShader: 0x82B0E6C0
+VertexShader: 0x82B0E6C0
+RBBM_STATUS: 0x82A6D658
+ShaderDumpxe: 0x82A75060
+D3D10: 0x82A7ACC0
+D3DX_VERSION: 0x82A7ACC0
+DIRECT3D_VERSION: 0x82A7ACC0
+HLSL_VERSION: 0x82A7ACC0
+D3D10_COMPILER: 0x82A7ACC0
+VolMinFilter: 0x8310A160
+VolMagFilter: 0x8310A160
+AnisoFilter: 0x8310A160
+MipFilter: 0x8310A160
+MinFilter: 0x8310A160
+MagFilter: 0x8310A160
+FetchValidOnly: 0x8310A160
+UnnormalizedTextureCoords: 0x8310A160
+UseTextureCache: 0x82ABA8F0
+DoNotSerialize: 0x82ABEFA8
+ForwardOnly: 0x82AC1AD8
+ElementAddress: 0x82ACB360
+CaseStmts: 0x82B04D00
+NameSpace: 0x82B05750
+UsageType: 0x82B0AFD0
+TypeDeclStmts: 0x82B0C280
+SamplerComparisonState: 0x82B0E6C0
+SamplerState: 0x82B0E6C0
+RenderTargetView: 0x82B0E6C0
+RasterizerState: 0x82B0E6C0
+GeometryShader: 0x82B0E6C0
+DepthStencilView: 0x82B0E6C0
+DepthStencilState: 0x82B0E6C0
+CompileShader: 0x82B0E6C0
+BlendState: 0x82B0E6C0
+VarDeclStmts: 0x82B10D88
+DwordExpr: 0x82B13380
+CaseConditions: 0x82B13380
+VariableDim: 0x82B13380
+TypeDefs: 0x82B13380
+D3D10_SHADER_PREFER_FLOW_CONTROL: 0x82B38500
+D3D10_SHADER_AVOID_FLOW_CONTROL: 0x82B38500
+D3D10_SHADER_SKIP_OPTIMIZATION: 0x82B38500
+InitStruct: 0x82B45B18
+ShutdownTick: 0x82B47150
+GetPlayers: 0x82B47910
+MassiveAdClient3: 0x82B48738
+ResetDataBuffer: 0x82B49948
+ReAllocated: 0x82B49A88
+RequestQueue: 0x82B4A940
+ServerAddressArray: 0x83166220
+MassiveFileOpen: 0x82B4C860
+MassiveFileWrite: 0x82B4C8F0
+MassiveCriticalSection: 0x82B4D050
+TryEnter: 0x82B4D120
+RequestDownloadBinary: 0x82B59C78
+ChannelGroup: 0x82C69D70
+GFx_DefineFontInfoLoader: 0x82D06C08
+ProcessImageTags: 0x82D14E38
+GetVariableRaw: 0x82D2C660
+LoadMovieImageCallback: 0x82D45F10
+ActionScript: 0x82D6F020
+RunTimeMemory: 0x82DDB228
+MaxVolatileGraphHandles: 0x82DDB228
+UseDiMeshSplitter: 0x82DDB228
+LoadAtInitTime: 0x82DDB228
+NoObjFiles: 0x82DDECF0
+MaxPeriodicTask: 0x82DE15E8
+MaxAperiodicTask: 0x82DE15E8
+DeterministicMode: 0x82DE15E8
+MaxEdgeLength: 0x82DEDD60
+ConstraintsGetCostCanBlock: 0x82DEDD60
+PathObjectsGetCostCanBlock: 0x82DEDD60
+ForceValidDates: 0x82DF8978
+BitsPerDateId: 0x82DF8978
+DateUpdatePeriod: 0x82DF8978
+TimerAccuracy: 0x82DF8978
+GridUpdatePeriod: 0x82DF8978
+VectorPoolSize: 0x82E12858
+AdditionalData: 0x82E1BEF0
+CoverageDistance: 0x82E1BEF0
+UpdateWithPathObjects: 0x82E1BEF0
+OutputFile: 0x82E24E18
+ForceRebuild: 0x82E24E18
+EntityWidth: 0x82E24E18
+MaxDeltaUp: 0x82E24E18
+HoleDistToEdge: 0x82E2BE58
+WidthRatioForHoleDetection: 0x82E2BE58
+HoleHeight: 0x82E2BE58
+MaxDeltaAngle: 0x82E2BE58
+VisibleWithoutHoleGo: 0x83167D00
+HoleCheck: 0x83167E20
+StopAndRelaunchPath: 0x83167F40
+CAsyncManager_XBox360: 0x83168548
+MaxNbPathObjects: 0x82E57250
+NbReservedSoundsPlayer: 0x82E64360
+NbReservedSoundsMeat: 0x82E64360
+NbReservedSoundsCarcass: 0x82E64360
+NbReservedSoundsDanger: 0x82E64360
+MaxWorldSounds: 0x82E64360
+NbReservedSoundsWorld: 0x82E64360
+NbReservedSoundsCombat: 0x82E64360
+FarModeEnterRatio: 0x82E72280
+CloseModeEnterRatio: 0x82E72280
+MaxAcceptableFriendlyFireRisk: 0x82E77DD0
+MaxHandledAllies: 0x82E77DD0
+NumTestedSideSteps: 0x82E77DD0
+SideStepSize: 0x82E77DD0
+LineOfFireCheckInterval: 0x82E77DD0
+MaxInaccuracy: 0x82E77DD0
+ComputeDestInterval: 0x82E7B348
+DangerRadius: 0x82E7B348
+RunSpeed: 0x82E7CC58
+WalkSpeed: 0x82E7CC58
+StartingPointIndex: 0x82E7CC58
+PathWayName: 0x82E7CC58
+FxName: 0x82E80458
+NewActor: 0x82E80A70
+FxCompiledFaceGraph: 0x82E84AE8
+FxAnimBoneWeight: 0x82E84BB8
+FxActorInstance: 0x82E86268
+FxLinkFn: 0x82E8D258
+FxNullLinkFn: 0x82E8D490
+FxLinearLinkFn: 0x82E8D510
+FxQuadraticLinkFn: 0x82E8D590
+FxCubicLinkFn: 0x82E8D610
+FxSqrtLinkFn: 0x82E8D690
+FxNegateLinkFn: 0x82E8D710
+FxInverseLinkFn: 0x82E8D790
+FxOneClampLinkFn: 0x82E8D810
+FxConstantLinkFn: 0x82E8D890
+FxCorrectiveLinkFn: 0x82E8D910
+FxClampedLinearLinkFn: 0x82E8D990
+TtCriticalLock: 0x82EBC758
+EtGetNextJob: 0x82EBDB08
+MOTION_FIXED: 0x82EC9570
+MOTION_KEYFRAMED: 0x82EC9570
+MOTION_STABILIZED_BOX_INERTIA: 0x82EC9570
+MOTION_BOX_INERTIA: 0x82EC9570
+MOTION_STABILIZED_SPHERE_INERTIA: 0x82EC9570
+MOTION_SPHERE_INERTIA: 0x82EC9570
+MOTION_INVALID: 0x82EC9570
+BtoAoffsetRotation: 0x82ECA9D0
+MOTION_THIN_BOX_INERTIA: 0x82EC9570
+TYPE_SPRING_DAMPER: 0x82EC8C18
+TYPE_VELOCITY: 0x82EC8C18
+TYPE_POSITION: 0x82EC8C18
+TYPE_INVALID: 0x82EC8C18
+MotorIndex: 0x82ECA4E0
+MOTOR_CONE: 0x82ECA4E0
+MOTOR_PLANE: 0x82ECA4E0
+MOTOR_TWIST: 0x82ECA4E0
+TYPE_PULLEY: 0x82EC80A8
+TYPE_RAGDOLL_MOTOR: 0x82EC7F10
+TYPE_ANG_MOTOR: 0x82EC7D78
+TYPE_ANG_FRICTION: 0x82EC7C60
+TYPE_CONE_LIMIT: 0x82EC7AB0
+TYPE_TWIST_LIMIT: 0x82EC7930
+TYPE_ANG_LIMIT: 0x82EC77D8
+TYPE_ANG: 0x82EC7720
+TYPE_2D_ANG: 0x82EC7690
+TYPE_LIN_MOTOR: 0x82EC7520
+TYPE_LIN_FRICTION: 0x82EC7430
+TYPE_LIN_LIMIT: 0x82EC7338
+TYPE_LIN_SOFT: 0x82EC7240
+TYPE_LIN: 0x82EC71B0
+TYPE_STIFF_SPRING: 0x82EC7100
+TYPE_BALL_SOCKET: 0x82EC7088
+TYPE_SET_LOCAL_ROTATIONS: 0x82EC6FC0
+TYPE_SET_LOCAL_TRANSLATIONS: 0x82EC6ED0
+TYPE_SET_LOCAL_TRANSFORMS: 0x82EC6E08
+TYPE_BRIDGE: 0x82EC6D50
+HK_WAVELET_COMPRESSED_ANIMATION: 0x82ECD3B0
+HK_DELTA_COMPRESSED_ANIMATION: 0x82ECD3B0
+HK_INTERLEAVED_ANIMATION: 0x82ECD3B0
+HK_UNKNOWN_ANIMATION: 0x82ECD3B0
+HK_OFFSET_OF: 0x82ED6168
+HK_NULL: 0x82ED6650
+TYPE_ZERO: 0x82EE2AB8
+StenforceConstraints: 0x82EF3FB0
+StunmappedBones: 0x82EF3FB0
+StchainMappings: 0x82EF3FB0
+StsimpleMappings: 0x82EF3FB0
+LtMapPose: 0x82EF3FB0
+LtSampleWaveChunk: 0x82EF7278
+LtSampleWave: 0x82EF7C08
+LtSampleDeltaChunk: 0x82EF92B8
+LtSampleDelta: 0x82EF9968
+TtsamplePose: 0x82EFAA58
+BoxShape: 0x82F13698
+TriangleSubParts: 0x82F14090
+MoppShape: 0x82F16BD0
+TtrcTriangle: 0x82F17EB8
+SphereShape: 0x82F18650
+CapsuleShape: 0x82F189B0
+CvxVerts: 0x82F1A240
+StorageMesh: 0x82F1A898
+ListShape: 0x82F1D108
+TtrcCxList: 0x82F1E4D0
+CvxTransform: 0x82F1FC70
+TtrcCxTransform: 0x82F200C8
+ChildShape: 0x82F22E38
+TransformShp: 0x82F22E38
+DisplayMesh: 0x82F256B0
+CvxPieceMesh: 0x82F256B0
+BvTreeAgt3: 0x82F25F20
+BvTreeAgt: 0x82F27E40
+DebugTable: 0x82F2B568
+StExamine: 0x82F2BD50
+StgetSpheres: 0x82F2C048
+StCastSpheres: 0x82F2C458
+StClosestPoints: 0x82F2C458
+LtCvsListAgent: 0x82F2D818
+TransformAgent: 0x82F38F50
+HK_SHAPE_USER1: 0x82F3D6A8
+HK_SHAPE_USER0: 0x82F3D6A8
+HK_SHAPE_PHANTOM_CALLBACK: 0x82F3D6A8
+HK_SHAPE_MOPP_EMBEDDED: 0x82F3D6A8
+HK_SHAPE_PACKED_CONVEX_VERTICES: 0x82F3D6A8
+HK_SHAPE_EXTENDED_MESH: 0x82F3D6A8
+HK_SHAPE_CONVEX_TRANSFORM: 0x82F3D6A8
+HK_SHAPE_CONVEX_TRANSLATE: 0x82F3D6A8
+HK_SHAPE_TRANSFORM: 0x82F3D6A8
+HK_SHAPE_MOPP: 0x82F3D6A8
+HK_SHAPE_PLANE: 0x82F3D6A8
+HK_SHAPE_BV: 0x82F3D6A8
+HK_SHAPE_SPHERE_REP: 0x82F3D6A8
+HK_SHAPE_SAMPLED_HEIGHT_FIELD: 0x82F3D6A8
+HK_SHAPE_HEIGHT_FIELD: 0x82F3D6A8
+HK_SHAPE_MULTI_RAY: 0x82F3D6A8
+HK_SHAPE_TRIANGLE_COLLECTION: 0x82F3D6A8
+HK_SHAPE_CONVEX_LIST: 0x82F3D6A8
+HK_SHAPE_LIST: 0x82F3D6A8
+HK_SHAPE_MULTI_SPHERE: 0x82F3D6A8
+HK_SHAPE_CONVEX_PIECE: 0x82F3D6A8
+HK_SHAPE_CONVEX_VERTICES: 0x82F3D6A8
+HK_SHAPE_CYLINDER: 0x82F3D6A8
+HK_SHAPE_CAPSULE: 0x82F3D6A8
+HK_SHAPE_BOX: 0x82F3D6A8
+HK_SHAPE_TRIANGLE: 0x82F3D6A8
+HK_SHAPE_SPHERE: 0x82F3D6A8
+HK_SHAPE_BV_TREE: 0x82F3D6A8
+HK_SHAPE_COLLECTION: 0x82F3D6A8
+HK_SHAPE_CONVEX: 0x82F3D6A8
+HK_SHAPE_ALL: 0x82F3D6A8
+HK_SHAPE_INVALID: 0x82F3D6A8
+MultiRay: 0x82F3E7F8
+MultiSphere: 0x82F3EA80
+TtrcMultiSpher: 0x82F3EE60
+PlaneShape: 0x82F3F200
+TtrcPlane: 0x82F3F310
+TtCollQueryMoppAabbQuery: 0x82F40FF8
+TtCollQueryPairLinearCast: 0x82F417F8
+TtCollQueryShapeRayCast: 0x82F41D90
+LtGsk: 0x82F45700
+OvrlpCollPtr: 0x82F48860
+AabbPhantom: 0x82F48860
+PhantmLisPtr: 0x82F49548
+OvrlapLisPtr: 0x82F49548
+PstColLisPtr: 0x82F4C0D8
+PstIntLisPtr: 0x82F4C0D8
+PstSimLisPtr: 0x82F4C0D8
+IslActLisPtr: 0x82F4C0D8
+WldDelLisPtr: 0x82F4C0D8
+ConstrLisPtr: 0x82F4C0D8
+PhantLisPtr: 0x82F4C0D8
+EntLisPtr: 0x82F4C0D8
+CollInput: 0x82F4C0D8
+BpDispatch: 0x82F4C0D8
+OpQueue: 0x82F4C0D8
+MaintnceMgr: 0x82F4C0D8
+DirtyIslPtr: 0x82F4C0D8
+PhantomPtrs: 0x82F4C0D8
+StUpdateOverlaps: 0x82F4E830
+LtUpdateFilterOnPhantom: 0x82F4E830
+StaddAgts: 0x82F4EAD8
+StcheckAgts: 0x82F4EAD8
+LtUpdateFilterOnEntity: 0x82F4EAD8
+TtUpdateFilterOnWorld: 0x82F4F9A8
+StAddedCb: 0x82F4FDE0
+StCreateAgents: 0x82F4FDE0
+StBroadphase: 0x82F4FDE0
+LtAddEntities: 0x82F4FDE0
+StRemoveCb: 0x82F504F8
+StDelAgents: 0x82F504F8
+StBroadPhase (2): 0x82F504F8
+LtRemEntities: 0x82F504F8
+ChildShapeAabbs: 0x82F51E18
+CollAgtPtr: 0x82F51E18
+CachngPhantm: 0x82F53FE8
+ActivatonListners: 0x82F54DE0
+EntityListeners: 0x82F54DE0
+ExtendedListenersStruct: 0x82F54DE0
+CollisionListnr: 0x82F54DE0
+TtSetSoftContact: 0x82F5B9C8
+TtSetSurfVel: 0x82F5BB40
+TtClrSurfVel: 0x82F5BCE8
+TtSetSurfVisc: 0x82F5BDA8
+TtDsblConstr: 0x82F5BEE0
+TtEnblConstr: 0x82F5C000
+ContactAtom: 0x82F5CCC0
+SimplePhantm: 0x82F64C98
+TtSingleObj: 0x82F66F08
+TtWorldPostIntegrateCb: 0x82F66F08
+StIslandPostIntegrateCb: 0x82F66F08
+StIntegrate: 0x82F66F08
+StCalcAabbs: 0x82F67E50
+StInitMem: 0x82F67E50
+StaddAgt: 0x82F69E38
+StsortPairs: 0x82F69E38
+LtInterIsland: 0x82F69E38
+TtentDelCb: 0x82F6B4B0
+TtcpProCb: 0x82F6B810
+TtactAddCb: 0x82F6B9D8
+TtactRemCb: 0x82F6BAB0
+TtphntAddCb: 0x82F6BE10
+TtphntRemCb: 0x82F6BEE8
+TtconAddCb: 0x82F6C098
+TtconRemCb: 0x82F6C170
+TtcpProcCb: 0x82F6C4E8
+TtworldDelCb: 0x82F6C5C8
+TtentActCb: 0x82F6C6A0
+TtislActCb: 0x82F6C6A0
+TtentDeacCb: 0x82F6C8A8
+TtislDeacCb: 0x82F6C8A8
+TtpostSimCb: 0x82F6CAB0
+TtimpLimitCb: 0x82F6CF20
+TtentMvdCb: 0x82F6D000
+CollAgents: 0x82F6E178
+ActionPtrs: 0x82F6E178
+ConMstPtr: 0x82F6E178
+ConSlvPtr: 0x82F6E178
+ConInstance: 0x82F6E178
+ConData: 0x82F6E178
+EntityPtrs: 0x82F6E178
+StSplit: 0x82F6EB00
+MinumCmds: 0x82F7A1B8
+StPostCollide: 0x82F7A1B8
+LtNarrowPhase: 0x82F7A1B8
+EtNarrowPhase: 0x82F7A410
+TtWaitForSolverCallbacks: 0x82F7AE10
+TtBroadphase: 0x82F7AE10
+TtSplitIsle: 0x82F7B370
+StIntegrateMotions: 0x82F7B460
+StAppGrav: 0x82F7B570
+StIntVel: 0x82F7B760
+StBuildJacobians: 0x82F7BC00
+StConstraintCallbacks: 0x82F7BE00
+StBuildAccumulators: 0x82F7BFD8
+MiNumConstraints: 0x82F7C3F0
+TtBuildJacTask: 0x82F7C3F0
+StSetupJobs: 0x82F7D2A0
+StSolver: 0x82F7D2A0
+StSingleObj: 0x82F7D2A0
+StHull: 0x82F83538
+LtCreateConvex: 0x82F83538
+TtList3: 0x82F87CA0
+TtBoxBox3: 0x82F89160
+MiNumHits: 0x82F8B730
+StSortHits: 0x82F8B730
+StSortHitList: 0x82F8B730
+StConvertHitlist: 0x82F8B730
+StqueryTree: 0x82F8B730
+LtCollColl3: 0x82F8B730
+TtConflicts: 0x82F8D048
+TtWaitForExport: 0x82FA74A8
+TtreCollideAfterStepFailure: 0x82FA57A0
+StGatherAabbs: 0x82FA74A8
+StSolveToi: 0x82FA8E00
+TtplanesToVerts: 0x82FB4A28
+OverlapsPntr: 0x82FCAE90
+StUpdateManifold: 0x82FCBBB8
+StSlexMove: 0x82FCBBB8
+StApplySurf: 0x82FCBBB8
+StCastMove: 0x82FCBBB8
+StCast: 0x82FCBBB8
+LtupdateCharacter: 0x82FCBBB8
+TtDashpot: 0x82FDA2E0
+DriverInput: 0x82FE2FD0
+WheelInfo: 0x82FE2FD0
+VfetchInfo: 0x82FE9C60
+InterpolatorInfo: 0x82FE9E30
+LiteralBools: 0x82FE9FD8
+LiteralInts: 0x82FE9FD8
+LiteralFloats: 0x82FE9FD8
+PsInstCount: 0x82FEC058
+VsInstCount: 0x82FEC058
+VsSampCount: 0x82FEC058
+VsSampBase: 0x82FEC058
+PsSampCount: 0x82FEC058
+PsSampBase: 0x82FEC058
+DiagnosticIndexReg: 0x82FEC350
+DbgprintEnableReg: 0x82FEC350
+DbgprintSamplerReg: 0x82FEC350
+DbgprintAddressReg: 0x82FEC350
+AssertAddressReg: 0x82FEC350
+FxlTechniqueName: 0x82FED438
+FxlPassName: 0x82FED438
+FxlPass: 0x82FED438
+FxlTechnique: 0x82FED438
+PixelShaderCount: 0x82FF28F8
+VertexShaderCount: 0x82FF28F8
+GPUNUMFORMAT_FRACTION: 0x82FFCC30
+GPUNUMFORMAT_INTEGER: 0x82FFCC30
+GetDevice: 0x82FFE5F8
+VertexShaderHandle: 0x83003AC8
+ShaderHandle: 0x83003FB8
+ParamGen: 0x830AA5C8
+QueryRegistry: 0x830AB2E8
+OLIST_GetNumItems: 0x830ACF18
+INTLIST_GetNumItems: 0x830AD158
+FA_GetMode: 0x830AE880
+LinkableShaderPair: 0x830AEB10
+TxHandle: 0x830AFB58
+BUILD_SSA: 0x830BEC80
+INITIAL_INPUT: 0x830BEC80
+ASM_KONST: 0x830BEC80
+ASSM_FIN: 0x830BEC80
+GLOBAL_ALLOC: 0x830BEC80
+REPLACE_PHI: 0x830BEC80
+AS_GetStateI: 0x830C0368
+CP_GetRS: 0x830D6D60
+AS_CB_SURFACE_SWIZZLE_N_X: 0x830D7038
+AS_TEX_SURFACE_NUMERIC_N_X: 0x830D7038
+R400ConstantModel: 0x830ECBF0
+EdgesAreSplit: 0x830FE5C0
+TextureStage: 0x830FE5C0
+TtRayCstCached: 0x831209B0
+TtRayCastGroup: 0x83120AC8
+TtRayCastSimpl: 0x83120F20
+TtRayCstCchSim: 0x83121048
+TtRayCstGrpSim: 0x83121150
+TotalFrameTime: 0x822D86A0
+RemoveEventScreen: 0x82366700
+SaveOption_ID: 0x8236CC08
+WheelmanCredits: 0x823717E8
+UnCheckedTitle: 0x823773F0
+CheckedTitle: 0x823773F0
+LowerLimit: 0x823773F0
+UpperLimit: 0x823773F0
+DisplayMax: 0x823773F0
+ControllerOption_ID: 0x82378490
+KeyboardConfig_ID: 0x82378490
+ObjectList_ID: 0x82378490
+AlliedPassengers: 0x8241D720
+HSVD_Entity: 0x82516FC8
+OpenScene: 0x8253DDA0
+CloseScene: 0x8253DDA0
+InputOn: 0x8253DDA0
+InputOff: 0x8253DDA0
+SetInputFocusTo: 0x8253DDA0
+DisplayOn: 0x8253DDA0
+DisplayOff: 0x8253DDA0
+SendEvent: 0x8253DDA0
+AudioEvent: 0x8253DDA0
+CActionAttribute_Ladder: 0x8313EA00
+AiGoto_AsyncDA: 0x8313EA90
+NbComputationsAllowed: 0x8257DEB8
+CCanGo_AiMesh_ToOutside: 0x8313EB30
+CRefineGoal_ImprovedNearestInsideAiMesh: 0x8313EB80
+CDetectGoalReached_Obstructed: 0x8313EBD0
+CEntityAttribute_ObstacleProperties: 0x8313ECC0
+CFindNodesFromPositions_NearestReachable_withPO: 0x8313ED08
+KynapsePlayerEntityDefinition: 0x82584168
+CDetectAccident_UnrealFalling: 0x8313ED50
+PreLinker: 0x82590930
+MaxEdgesPerVertex: 0x82590930
+EntityRadius: 0x82590930
+OverConnectionRatio: 0x82590930
+CanGo_AiMesh: 0x82590930
+CanGo_Capsule: 0x82590930
+HierarchyBuilder: 0x82590E40
+Operation_RebuildAll: 0x82590E40
+CurrentOperation: 0x82590E40
+UserSettings: 0x82590E40
+ProjectType: 0x82590E40
+RuntimeMemory (2): 0x82590E40
+TargetDirectory: 0x82590E40
+PathObjectsPath: 0x82590E40
+VerticesAdditionnalData: 0x82590E40
+AdditionnalData: 0x82590E40
+ID_None: 0x82590E40
+EdgesAdditionnalData: 0x82590E40
+ExtraL0VertexSize: 0x82590E40
+ExtraL0EdgeSize: 0x82590E40
+AdvancedSettings: 0x82590E40
+ConcreteOverlap: 0x82590E40
+L0ConsumptionFactor: 0x82590E40
+RemoveMono: 0x82590E40
+FlatOnly: 0x82590E40
+InputItems: 0x82590E40
+InputGraph: 0x82590E40
+OutputItems: 0x82590E40
+OutputGraph: 0x82590E40
+ObstacleLayer: 0x82592980
+MaterialPathing_NextPathNode: 0x8313EF70
+StealthyConstraint: 0x8313F008
+TerrainGraphData: 0x8313F058
+CreateTerrainTraversal: 0x8313F0A0
+DrawTerrainTraversal: 0x8313F0E8
+TerrainPathingConstraint: 0x8313F130
+CSteering_VinBiped: 0x8313F5A0
+UpdateAccessWayDelay: 0x8259CA68
+KynapseSkel: 0x8313F8F0
+DynamicCylinder: 0x825AB608
+DynamicRectangle: 0x825ABF20
+AiMesh: 0x825AC9C0
+MwyKynapseHierarchicalFleeAgent: 0x8313FB98
+MwyKynapseHierarchicalFleeTraversal: 0x8313FBE8
+ProcessAsyncLoading: 0x82667000
+WaitForAsyncWork: 0x82695410
+FileNotFound: 0x826E7F88
+ParticleDynamicData: 0x827038E0
+SeekFailed: 0x827BE2B8
+HashSec: 0x827C0A28
+SplashVertexShader: 0x827CB750
+SplashPixelShader: 0x827CB750
+IMG_002: 0x827CB750
+IMG_001: 0x827CB750
+ProcessLevelStreaming: 0x8281AC00
+StreamingPerFrameTimeLimit: 0x8281C898
+StGatherAndPerformActionAsyncQueries: 0x828A92A0
+StstartStepWorld: 0x828A92A0
+EtSimulate: 0x828A95C0
+RightArm: 0x828AAD18
+RtArm: 0x828AAD18
+EngineTorque: 0x8291F8D0
+IsReversing: 0x8291F8D0
+SteeringAngle: 0x8291F8D0
+StupdateWheelInfo_hardpointWs: 0x82938FB8
+StupdateWheelInfo_raycast: 0x82938FB8
+StupdateWheelInfo_wheels: 0x82938FB8
+StcalcFrictionModifiers: 0x8293B3F0
+StupdateWheelInfo_raycast_updatePhantom: 0x8293CB10
+StupdateWheelInfo_raycast_doRest: 0x8293CB10
+SthardpointWs: 0x8293E300
+TtTrailer: 0x8293FA58
+LtTrailer: 0x8293FA58
+StupdateBodiesInfo: 0x8293FA58
+TtTrain: 0x82940048
+Ltvehicle_cfcb: 0x829493C0
+Stvehicle_cfcb_addop: 0x829493C0
+Ltpr_cb: 0x82973A68
+Ltba_cfcb: 0x829740F8
+BreakableManager: 0x829876F8
+TEST_PATHFINDER_SCOUT: 0x8299E1A0
+DefaultEntityDefinition: 0x824D9B58
+getDepth: 0x82D68780
+getTextFormat: 0x82D162D0
+getNewTextFormat: 0x82D13418
+setTextFormat: 0x82D131C0
+setNewTextFormat: 0x82D164A8
+replaceText: 0x82D13538
+removeTextField: 0x82D14D90
+appendText: 0x82D13728
+appendHtml: 0x82D137E8
+getCharBoundaries: 0x82D15748
+getCharIndexAtPoint: 0x82D138B0
+getExactCharBoundaries: 0x82D158C0
+getFirstCharInParagraph: 0x82D13C00
+getLineIndexAtPoint: 0x82D13998
+getLineIndexOfChar: 0x82D13CC0
+getLineOffset: 0x82D13A80
+getLineMetrics: 0x82D12710
+getLineLength: 0x82D13B40
+setImageSubstitutions: 0x82D1C470
+updateImageSubstitution: 0x82D17768
+play: 0x82D55C08
+stop: 0x82D55C48
+gotoAndStop: 0x82D59170
+gotoAndPlay: 0x82D59028
+nextFrame: 0x82D573A8
+prevFrame: 0x82D55C88
+getBytesLoaded: 0x82D55D08
+getBytesTotal: 0x82D57468
+getBounds: 0x82D59330
+localToGlobal: 0x82D59608
+globalToLocal: 0x82D59830
+hitTest: 0x82D59A58
+attachBitmap: 0x82D5F5E8
+attachMovie: 0x82D5E3D8
+duplicateMovieClip: 0x82D574D0
+removeMovieClip: 0x82D592B8
+createEmptyMovieClip: 0x82D5E708
+createTextField: 0x82D5E8D8
+swapDepths: 0x82D55D60
+getNextHighestDepth: 0x82D576C0
+getInstanceAtDepth: 0x82D57720
+getSWFVersion: 0x82D55F20
+startDrag: 0x82D5BF00
+stopDrag: 0x82D55F78
+setMask: 0x82D57620
+loadMovie: 0x82D55FB8
+unloadMovie: 0x82D56170
+loadVariables: 0x82D561D8
+clear: 0x82D579E0
+beginFill: 0x82D59F58
+beginGradientFill: 0x82D5A918
+beginBitmapFill: 0x82D5A9D8
+lineGradientStyle: 0x82D5A978
+endFill: 0x82D5AB90
+lineStyle: 0x82D5ABD8
+moveTo: 0x82D5B098
+lineTo: 0x82D57A18
+curveTo: 0x82D57A98
+apply: 0x82D705A8
+call: 0x82D6FDF0
+addProperty: 0x82D74888
+hasOwnProperty: 0x82D74A50
+watch: 0x82D74AF8
+unwatch: 0x82D74C60
+isPropertyEnumerable: 0x82D74D30
+isPrototypeOf: 0x82D74E58
+toString: 0x82D74F38
+registerClass: 0x82D75440
+clone: 0x82D94D18
+contains: 0x82D93630
+containsPoint: 0x82D93798
+containsRectangle: 0x82D93950
+equals: 0x82D93B08
+inflate: 0x82D93C28
+inflatePoint: 0x82D93D58
+intersection: 0x82D94E18
+intersects: 0x82D93E28
+isEmpty: 0x82D94020
+offset: 0x82D92D00
+offsetPoint: 0x82D92EA8
+toString (2): 0x82D93208
+union: 0x82D95088
+addListener: 0x82D96290
+broadcastMessage: 0x82D96310
+addListener (2): 0x82DB3B68
+addListener (3): 0x82D97748
+show: 0x82D971F0
+toString (3): 0x82D9BC48
+valueOf: 0x82D9BAB8
+NEGATIVE_INFINITY: 0x82D9B798
+concat: 0x82D9FE20
+join: 0x82D9ED38
+push: 0x82D9FF38
+reverse: 0x82D9EE40
+shift: 0x82D9F848
+slice: 0x82D9FFB8
+sort: 0x82DA0F50
+sortOn: 0x82DA1208
+splice: 0x82DA0160
+toString (4): 0x82D9F1C8
+unshift: 0x82D9F8C8
+addRequestHeader: 0x82DA3550
+decode: 0x82DA3590
+getBytesLoaded (2): 0x82DA2DE8
+getBytesTotal (2): 0x82DA2E58
+load: 0x82DA2EC8
+send: 0x82DA2FB8
+toString (5): 0x82DA3698
+getProgress: 0x82DA4E18
+loadClip: 0x82DA4508
+call (2): 0x82DA6240
+getDate: 0x82DA6B90
+getDay: 0x82DA6C68
+getFullYear: 0x82DA6EE0
+getHours: 0x82DA6D00
+getMilliseconds: 0x82DA6E30
+getMinutes: 0x82DA6D58
+getMonth: 0x82DA6AF8
+getSeconds: 0x82DA6DC8
+getTimezoneOffset: 0x82DA6AA0
+getYear: 0x82DA6E90
+getUTCDate: 0x82DA7728
+getUTCDay: 0x82DA7800
+getUTCFullYear: 0x82DA7A50
+getUTCHours: 0x82DA7870
+getUTCMilliseconds: 0x82DA79A0
+getUTCMinutes: 0x82DA78C8
+getUTCMonth: 0x82DA7690
+getUTCSeconds: 0x82DA7938
+getUTCYear: 0x82DA7A00
+setDate: 0x82DA7248
+setFullYear: 0x82DA7040
+setHours: 0x82DA73D0
+setMilliseconds: 0x82DA75E8
+setMinutes: 0x82DA7478
+setMonth: 0x82DA7148
+setSeconds: 0x82DA7530
+setTime: 0x82DA7358
+setYear: 0x82DA6F28
+setUTCDate: 0x82DA7DB8
+setUTCFullYear: 0x82DA7BB0
+setUTCHours: 0x82DA7EC8
+setUTCMilliseconds: 0x82DA80E0
+setUTCMinutes: 0x82DA7F70
+setUTCSeconds: 0x82DA8028
+setUTCMonth: 0x82DA7CB8
+setUTCYear: 0x82DA7A98
+toString (6): 0x82DA8188
+concat (2): 0x82DAA898
+toString (7): 0x82DAAA18
+clone (2): 0x82DACAD8
+equals (2): 0x82DAC278
+normalize: 0x82DAC6C8
+offset (2): 0x82DAC348
+subtract: 0x82DACBD8
+toString (8): 0x82DAC468
+interpolate: 0x82DACDD8
+distance: 0x82DABE40
+toString (9): 0x82DADC28
+clone (3): 0x82DAEE00
+concat (3): 0x82DADFC8
+createBox: 0x82DAE078
+createGradientBox: 0x82DAE238
+deltaTransformPoint: 0x82DAEAA0
+identity: 0x82DAE418
+invert: 0x82DAE480
+rotate: 0x82DAE510
+scale: 0x82DAE5E8
+transformPoint: 0x82DAE798
+setTransform: 0x82DB09A8
+getTransform: 0x82DB0C98
+setRGB: 0x82DB0F90
+attachSound: 0x82D1E148
+getTransform (2): 0x82DB16B0
+toString (10): 0x82DB1D10
+valueOf (2): 0x82DB1DC8
+getCaretIndex: 0x82DB4150
+getFocus: 0x82DB40B0
+setFocus: 0x82DB3E48
+setSelection: 0x82DB4218
+FxCombinerNode: 0x82E822F0
+FxDeltaNode: 0x82E823D0
+FxCurrentTimeNode: 0x82E82398
+FxGenericTargetNode: 0x82E82328
+FxBonePoseNode: 0x82E822B8
+FxMorphTargetNode: 0x82E82360
+FUnrealFaceFXMaterialParameterNode: 0x82E81D10
+FUnrealFaceFXMorphNode: 0x82E81D48
+hkbFootIkControlsModifier: 0x82EC4B90
+hkbFootIkModifier: 0x82EC4FC0
+hkbJigglerGroup: 0x82EC4C30
+hkbLookAtModifier: 0x82EC4CB8
+hkpSimulation: 0x82EC4DE0
+hkRagdollConstraintData: 0x82EC5568
+hkWorldCinfo: 0x82EC51D0
+hkAnimationBinding: 0x82EC5900
+hkBone: 0x82EC56F8
+hkBoneAttachment: 0x82EC5320
+hkDefaultExtractedMotion: 0x82EC53B8
+hkDeltaCompressedAnimation: 0x82EC5420
+hkInterleavedAnimation: 0x82EC5238
+hkMeshBinding: 0x82EC5808
+hkSkeleton: 0x82EC5A70
+hkRagdollInstance: 0x82EC5090
+hkAabbPhantom: 0x82EC5D18
+hkVehicleInstance: 0x82EC5DC8
+hkVehicleInstanceWheelInfo: 0x82EC5D70
+hkMalleableConstraintData: 0x82EC5EE8
+hkPositionConstraintMotor: 0x82EC5F88
+hkVelocityConstraintMotor: 0x82EC6098
+hkSpringDamperConstraintMotor: 0x82EC6100
+hkCylinderShape: 0x82ECCC40
+hkWorldObject: 0x82ECCB88
+hkMultiThreadLock: 0x82ECCAA0
+hkbBlenderGenerator: 0x82ECCCE8
+hkbBlendingTransition: 0x82ECCD78
+hkbBlendingTransitionEffect: 0x82ECCDF8
+hkbCharacterData: 0x82ECCE70
+hkbFootIkModifier (2): 0x82ECCF00
+hkbStateMachine: 0x82ECD1E0
+hkbStateMachineStateInfo: 0x82ECD178
+hkConvexListShape: 0x82ECDEE8
+hkEntity: 0x82ECD4F0
+hkDeltaCompressedSkeletalAnimation: 0x82ECD658
+hkWaveletSkeletalAnimation: 0x82ECDAF0
+hkExtendedMeshShapeShapesSubpart: 0x82ECE550
+hkExtendedMeshShapeTrianglesSubpart: 0x82ECE5F8
+hkExtendedMeshShape: 0x82ECE790
+hkBitField: 0x82ECE840
+hkExtendedMeshShape (2): 0x82ECEE20
+hkGenericConstraintData: 0x82ECEEC8
+hkbAttributeModifier: 0x82ECF258
+hkbBlenderGenerator (2): 0x82ECE8B8
+hkbCharacterBoneInfo: 0x82ECF460
+hkbCharacterSetup: 0x82ECF5A8
+hkbClipGenerator: 0x82ECE978
+hkbFootIkControlData: 0x82ECEB80
+hkbFootIkControlsModifier (2): 0x82ECEC20
+hkbFootIkGains: 0x82ECEA38
+hkbFootIkModifier (3): 0x82ECEBD0
+hkbPoweredRagdollModifier: 0x82ECF198
+hkbReachModifier: 0x82ECED00
+hkbRigidBodyRagdollModifier: 0x82ECF0D0
+hkbStateMachineStateInfo (2): 0x82ECEDA8
+hkbHandIkModifier: 0x82ECF050
+hkEntity (2): 0x82ECF6E8
+hkMotion: 0x82ECF638
+hkbVariableBindingSetBinding: 0x82ECF7A0
+hkbStateMachine (2): 0x82ECF8B0
+hkbStateMachineStateInfo (3): 0x82ECF828
+hkRagdollInstance (2): 0x82ECFBE0
+hkContactPointMaterial: 0x82ECFA08
+hkListShape: 0x82ECFAB8
+hkExtendedMeshShape (3): 0x82ECFB10
+hkbHandIkModifier (2): 0x82ECFCB0
+hkStorageExtendedMeshShapeMeshSubpartStorage: 0x82ED0010
+hkExtendedMeshShapeShapesSubpart (2): 0x82ECFEA0
+hkRootLevelContainer: 0x82ED0CC8
+hkRootLevelContainerNamedVariant: 0x82ED0BE0
+hkClassMember: 0x82ED0228
+hkClass: 0x82ED02A8
+hkShapePhantom: 0x82ED07B0
+hkKeyframedRigidMotion: 0x82ED0460
+hkMotionState: 0x82ED0518
+hkAction: 0x82ED03D8
+hkWorldObject (2): 0x82ED0730
+hkbBlendingTransitionEffect (2): 0x82ED0800
+hkbRigidBodyRagdollModifier (2): 0x82ED0AB0
+hkbStateMachineTransitionInfo: 0x82ED0B68
+hkbPoseMatchingGenerator: 0x82ED0E70
+hkpExtendedMeshShapeShapesSubpart: 0x82ED15C8
+hkpExtendedMeshShape: 0x82ED1748
+hkbCatchFallModifier: 0x82ED0FF0
+hkbHandIkModifier (3): 0x82ED13B8
+hkbHandIkModifierHand: 0x82ED1858
+hkbJigglerGroup (2): 0x82ED1510
+hkaAnimationBinding: 0x82ED0EF0
+hkaInterleavedSkeletalAnimation: 0x82ED0F70
+VGT_DEBUG: 0x82A6DE70
+charAt: 0x82D9CBF8
+charCodeAt: 0x82D9C398
+concat (4): 0x82D9CD08
+indexOf: 0x82D9C440
+lastIndexOf: 0x82D9C5D0
+slice (2): 0x82D9CE40
+split: 0x82D9D568
+substr: 0x82D9C890
+toLowerCase: 0x82D9C990
+toUpperCase: 0x82D9CA30
+hkRootLevelContainer (2): 0x82EC65D0
+hkRootLevelContainerNamedVariant (2): 0x82EC6500
+hkWaveletSkeletalAnimation (2): 0x82EC6170
+hkDeltaCompressedSkeletalAnimation (2): 0x82EC62B0
+hkWorldCinfo (2): 0x82EC6A00
+hkCharacterProxyCinfo: 0x82EC6BC0
+hkBallAndSocketConstraintData: 0x82EC8200
+hkBallSocketChainData: 0x82EC8300
+hkBreakableConstraintData: 0x82EC8378
+hkConstraintInstance: 0x82ECBF70
+hkGenericConstraintData (2): 0x82EC83F0
+hkHingeConstraintData: 0x82EC96A8
+hkPoweredHingeConstraintData: 0x82EC91E8
+hkLimitedHingeConstraintData: 0x82EC8D20
+hkHingeLimitsData: 0x82EC8468
+hkMalleableConstraintData (2): 0x82EC8708
+hkPointToPathConstraintData: 0x82EC8790
+hkPointToPlaneConstraintData: 0x82EC9A98
+hkPoweredChainData: 0x82EC8818
+hkPulleyConstraintData: 0x82EC88A0
+hkRagdollConstraintData (2): 0x82EC9D60
+hkRagdollLimitsData: 0x82ECB0F8
+hkStiffSpringChainData: 0x82EC8A58
+hkStiffSpringConstraintData: 0x82EC8AE0
+hkWheelConstraintData: 0x82ECB6A0
+hkBoxMotion: 0x82ECC270
+hkEntity (3): 0x82ECC608
+SSMVerifyBlendEnableState: 0x830D6058
+hkpFastMeshShape: 0x82F1F338
+hkpRigidBody: 0x82F59188
+hkpMouseSpringAction: 0x82FD5DD0
+FCachedAabbMeshShape: 0x828A3058
+
+~~Imports~~
+import_82B491B0: 0x82B491B0
+import_82B491C0: 0x82B491C0
+import_82E99E90: 0x82E99E90
+
+~~Module Layout~~
+default.xex base: 0x82000000
+default.xex end: 0x84952400
+default.xex entry point: 0x82A46168
+section .rdata: 0x82000600
+section .pdata: 0x8225B000
+section BINKBSS: 0x822C0600
+section .text: 0x822D0000
+section .embsec_: 0x8329E400
+section .embsec_ (2): 0x832B6400
+section .embsec_ (3): 0x832D4400
+section .embsec_ (4): 0x832D6000
+section .embsec_ (5): 0x832DCE00
+section .embsec_ (6): 0x832F3800
+section .embsec_ (7): 0x832F4C00
+section .embsec_ (8): 0x832F5000
+section BINK: 0x832F7E00
+section .data: 0x83310000
+section .XBMOVIE: 0x84570000
+section .tls: 0x84570200
+section BINKDATA: 0x84570400
+section .edata: 0x84580000
+section .idata: 0x84590000
+section .XBLD: 0x845A0000
+section .reloc: 0x845A0200
+
+~~Loaded Modules~~
+xboxkrnl.exe: 0x80040000
+xam.xex: 0x815F0000
+launch.xex: 0x91F00000
+ximecore.xex: 0x91680000
+Xam.Community.xex: 0x91240000
+hud.xex: 0x913E0000
+xbdm.xex: 0x91000000
+RPC.xex: 0x91C00000
+Nova.xex: 0x91A00000
+default.xex: 0x82000000

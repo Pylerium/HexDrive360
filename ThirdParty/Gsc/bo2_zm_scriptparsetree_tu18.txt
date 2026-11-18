@@ -1,0 +1,994 @@
+﻿Name: common_scripts/default
+Pointer Address: 0x831EBB84
+Buffer Address: 0xA578A4C0
+Size: 0x57
+
+Name: maps/mp/_serverfaceanim_mp.gsc
+Pointer Address: 0x831EBB90
+Buffer Address: 0xA57BBFC0
+Size: 0x50D
+
+Name: clientscripts/mp/zombies/_clientfaceanim_zm.csc
+Pointer Address: 0x831EBB9C
+Buffer Address: 0xA57BC500
+Size: 0x8BA
+
+Name: clientscripts/mp/zombies/_face_utility_zm.csc
+Pointer Address: 0x831EBBA8
+Buffer Address: 0xA57BCE00
+Size: 0x1B84
+
+Name: maps/mp/animscripts/zm_combat.gsc
+Pointer Address: 0x831EBBB4
+Buffer Address: 0xA5A7D2C0
+Size: 0x484
+
+Name: maps/mp/animscripts/zm_death.gsc
+Pointer Address: 0x831EBBC0
+Buffer Address: 0xA5A7D780
+Size: 0x21FE
+
+Name: maps/mp/animscripts/zm_flashed.gsc
+Pointer Address: 0x831EBBCC
+Buffer Address: 0xA5A7F9C0
+Size: 0xBA
+
+Name: maps/mp/animscripts/zm_init.gsc
+Pointer Address: 0x831EBBD8
+Buffer Address: 0xA5A7FAA0
+Size: 0xF96
+
+Name: maps/mp/animscripts/zm_jump.gsc
+Pointer Address: 0x831EBBE4
+Buffer Address: 0xA5A80A60
+Size: 0xB6
+
+Name: maps/mp/animscripts/zm_melee.gsc
+Pointer Address: 0x831EBBF0
+Buffer Address: 0xA5A80B40
+Size: 0x11F6
+
+Name: maps/mp/animscripts/zm_move.gsc
+Pointer Address: 0x831EBBFC
+Buffer Address: 0xA5A81D60
+Size: 0x112E
+
+Name: maps/mp/animscripts/zm_pain.gsc
+Pointer Address: 0x831EBC08
+Buffer Address: 0xA5A82EC0
+Size: 0x18C
+
+Name: maps/mp/animscripts/zm_run.gsc
+Pointer Address: 0x831EBC14
+Buffer Address: 0xA5A83080
+Size: 0x4CF
+
+Name: maps/mp/animscripts/zm_scripted.gsc
+Pointer Address: 0x831EBC20
+Buffer Address: 0xA5A83580
+Size: 0x35A
+
+Name: maps/mp/animscripts/zm_shared.gsc
+Pointer Address: 0x831EBC2C
+Buffer Address: 0xA5A83900
+Size: 0x235C
+
+Name: maps/mp/animscripts/zm_stop.gsc
+Pointer Address: 0x831EBC38
+Buffer Address: 0xA5A85C80
+Size: 0x245
+
+Name: maps/mp/animscripts/zm_turn.gsc
+Pointer Address: 0x831EBC44
+Buffer Address: 0xA5A85F00
+Size: 0xB6
+
+Name: maps/mp/animscripts/zm_utility.gsc
+Pointer Address: 0x831EBC50
+Buffer Address: 0xA5A85FE0
+Size: 0x3EE6
+
+Name: maps/mp/animscripts/dog_combat.gsc
+Pointer Address: 0x831EBC5C
+Buffer Address: 0xA5A89F00
+Size: 0x9C9
+
+Name: maps/mp/animscripts/dog_death.gsc
+Pointer Address: 0x831EBC68
+Buffer Address: 0xA5A8A900
+Size: 0x3B2
+
+Name: maps/mp/animscripts/dog_init.gsc
+Pointer Address: 0x831EBC74
+Buffer Address: 0xA5A8ACE0
+Size: 0x6CF
+
+Name: maps/mp/animscripts/dog_move.gsc
+Pointer Address: 0x831EBC80
+Buffer Address: 0xA5A8B3E0
+Size: 0xF3D
+
+Name: maps/mp/animscripts/dog_pain.gsc
+Pointer Address: 0x831EBC8C
+Buffer Address: 0xA5A8C340
+Size: 0x32A
+
+Name: maps/mp/animscripts/dog_stop.gsc
+Pointer Address: 0x831EBC98
+Buffer Address: 0xA5A8C6A0
+Size: 0xA82
+
+Name: maps/mp/animscripts/dog_jump.gsc
+Pointer Address: 0x831EBCA4
+Buffer Address: 0xA5A8D160
+Size: 0x1DE
+
+Name: maps/mp/animscripts/dog_turn.gsc
+Pointer Address: 0x831EBCB0
+Buffer Address: 0xA5A8D360
+Size: 0xB16
+
+Name: maps/mp/animscripts/dog_flashed.gsc
+Pointer Address: 0x831EBCBC
+Buffer Address: 0xA5A8DEA0
+Size: 0x2A7
+
+Name: maps/mp/animscripts/shared.gsc
+Pointer Address: 0x831EBCC8
+Buffer Address: 0xA5A8E180
+Size: 0x126A
+
+Name: maps/mp/animscripts/utility.gsc
+Pointer Address: 0x831EBCD4
+Buffer Address: 0xA5A8F420
+Size: 0x9F1
+
+Name: maps/mp/animscripts/traverse/shared.gsc
+Pointer Address: 0x831EBCE0
+Buffer Address: 0xA5A8FE40
+Size: 0x1072
+
+Name: maps/mp/animscripts/traverse/zm_shared.gsc
+Pointer Address: 0x831EBCEC
+Buffer Address: 0xA5A90EE0
+Size: 0xA2A
+
+Name: maps/mp/animscripts/zm_dog_combat.gsc
+Pointer Address: 0x831EBCF8
+Buffer Address: 0xA5A91940
+Size: 0x26F6
+
+Name: maps/mp/animscripts/zm_dog_death.gsc
+Pointer Address: 0x831EBD04
+Buffer Address: 0xA5A94060
+Size: 0x3BE
+
+Name: maps/mp/animscripts/zm_dog_init.gsc
+Pointer Address: 0x831EBD10
+Buffer Address: 0xA5A94460
+Size: 0x629
+
+Name: maps/mp/animscripts/zm_dog_move.gsc
+Pointer Address: 0x831EBD1C
+Buffer Address: 0xA5A94AC0
+Size: 0x13F1
+
+Name: maps/mp/animscripts/zm_dog_pain.gsc
+Pointer Address: 0x831EBD28
+Buffer Address: 0xA5A95EE0
+Size: 0x126
+
+Name: maps/mp/animscripts/zm_dog_stop.gsc
+Pointer Address: 0x831EBD34
+Buffer Address: 0xA5A96040
+Size: 0xD0E
+
+Name: maps/mp/animscripts/zm_dog_jump.gsc
+Pointer Address: 0x831EBD40
+Buffer Address: 0xA5A96D80
+Size: 0x21A
+
+Name: maps/mp/animscripts/zm_dog_turn.gsc
+Pointer Address: 0x831EBD4C
+Buffer Address: 0xA5A96FC0
+Size: 0xC2A
+
+Name: maps/mp/animscripts/zm_dog_flashed.gsc
+Pointer Address: 0x831EBD58
+Buffer Address: 0xA5A97C20
+Size: 0xC1
+
+Name: maps/mp/zombies/_zm_weap_cymbal_monkey.gsc
+Pointer Address: 0x831EBD64
+Buffer Address: 0xA5A97D20
+Size: 0x2503
+
+Name: clientscripts/mp/zombies/_zm_weap_cymbal_monkey.csc
+Pointer Address: 0x831EBD70
+Buffer Address: 0xA5A9A260
+Size: 0x2B2
+
+Name: common_scripts/utility.gsc
+Pointer Address: 0x831EBD7C
+Buffer Address: 0xA5A9A540
+Size: 0x62C1
+
+Name: codescripts/character_mp.gsc
+Pointer Address: 0x831EBD88
+Buffer Address: 0xA5AA0820
+Size: 0x1DE
+
+Name: maps/mp/_art.gsc
+Pointer Address: 0x831EBD94
+Buffer Address: 0xA5AA1180
+Size: 0x25D7
+
+Name: maps/mp/_audio.gsc
+Pointer Address: 0x831EBDA0
+Buffer Address: 0xA5AA3780
+Size: 0x839
+
+Name: maps/mp/_ballistic_knife.gsc
+Pointer Address: 0x831EBDAC
+Buffer Address: 0xA5AA3FE0
+Size: 0x1212
+
+Name: maps/mp/_bb.gsc
+Pointer Address: 0x831EBDB8
+Buffer Address: 0xA5AA5220
+Size: 0x605
+
+Name: maps/mp/_busing.gsc
+Pointer Address: 0x831EBDC4
+Buffer Address: 0xA5AA5840
+Size: 0x196
+
+Name: maps/mp/_challenges.gsc
+Pointer Address: 0x831EBDD0
+Buffer Address: 0xA5AA5A00
+Size: 0x7EAD
+
+Name: maps/mp/_compass.gsc
+Pointer Address: 0x831EBDDC
+Buffer Address: 0xA5AAD8E0
+Size: 0x58F
+
+Name: maps/mp/_createfx.gsc
+Pointer Address: 0x831EBDE8
+Buffer Address: 0xA5AADEA0
+Size: 0xB962
+
+Name: maps/mp/_createfxmenu.gsc
+Pointer Address: 0x831EBDF4
+Buffer Address: 0xA5AB9820
+Size: 0x39F6
+
+Name: maps/mp/_createfxundo.gsc
+Pointer Address: 0x831EBE00
+Buffer Address: 0xA5ABD240
+Size: 0x1D72
+
+Name: maps/mp/_demo.gsc
+Pointer Address: 0x831EBE0C
+Buffer Address: 0xA5ABEFE0
+Size: 0x8CA
+
+Name: maps/mp/_fx.gsc
+Pointer Address: 0x831EBE18
+Buffer Address: 0xA5ABF8C0
+Size: 0x20AE
+
+Name: maps/mp/_fxanim.gsc
+Pointer Address: 0x831EBE24
+Buffer Address: 0xA5AC19A0
+Size: 0xAF
+
+Name: maps/mp/_global_fx.gsc
+Pointer Address: 0x831EBE30
+Buffer Address: 0xA5AC1A80
+Size: 0x80D
+
+Name: maps/mp/_interactive_objects.gsc
+Pointer Address: 0x831EBE3C
+Buffer Address: 0xA5AC22C0
+Size: 0x1A83
+
+Name: maps/mp/zombies/_load.gsc
+Pointer Address: 0x831EBE48
+Buffer Address: 0xA5AC3D60
+Size: 0x2A98
+
+Name: maps/mp/_script_gen.gsc
+Pointer Address: 0x831EBE54
+Buffer Address: 0xA5AC6820
+Size: 0x1822
+
+Name: maps/mp/zombies/_zm_mgturret.gsc
+Pointer Address: 0x831EBE60
+Buffer Address: 0xA5AC8080
+Size: 0x13AD
+
+Name: maps/mp/_music.gsc
+Pointer Address: 0x831EBE6C
+Buffer Address: 0xA5AC9460
+Size: 0x1E2
+
+Name: maps/mp/_sticky_grenade.gsc
+Pointer Address: 0x831EBE78
+Buffer Address: 0xA5AC9660
+Size: 0x17D
+
+Name: maps/mp/_utility.gsc
+Pointer Address: 0x831EBE84
+Buffer Address: 0xA5AC9800
+Size: 0x930E
+
+Name: maps/mp/_visionset_mgr.gsc
+Pointer Address: 0x831EBE90
+Buffer Address: 0xA5AD2B40
+Size: 0x211D
+
+Name: maps/mp/gametypes_zm/_callbacksetup.gsc
+Pointer Address: 0x831EBE9C
+Buffer Address: 0xA5AD4CA0
+Size: 0x1672
+
+Name: maps/mp/gametypes_zm/_clientids.gsc
+Pointer Address: 0x831EBEA8
+Buffer Address: 0xA5AD6340
+Size: 0x11F
+
+Name: maps/mp/gametypes_zm/_damagefeedback.gsc
+Pointer Address: 0x831EBEB4
+Buffer Address: 0xA5AD64A0
+Size: 0xADF
+
+Name: maps/mp/gametypes_zm/_dev.gsc
+Pointer Address: 0x831EBEC0
+Buffer Address: 0xA5AD6FA0
+Size: 0x676
+
+Name: maps/mp/gametypes_zm/_gameobjects.gsc
+Pointer Address: 0x831EBECC
+Buffer Address: 0xA5AD7640
+Size: 0x82E1
+
+Name: maps/mp/gametypes_zm/_globalentities.gsc
+Pointer Address: 0x831EBED8
+Buffer Address: 0xA5ADF960
+Size: 0x69
+
+Name: maps/mp/gametypes_zm/_globallogic.gsc
+Pointer Address: 0x831EBEE4
+Buffer Address: 0xA5ADFA00
+Size: 0xA6C6
+
+Name: maps/mp/gametypes_zm/_globallogic_actor.gsc
+Pointer Address: 0x831EBEF0
+Buffer Address: 0xA5AEA100
+Size: 0xF7E
+
+Name: maps/mp/gametypes_zm/_globallogic_audio.gsc
+Pointer Address: 0x831EBEFC
+Buffer Address: 0xA5AEB0C0
+Size: 0x493A
+
+Name: maps/mp/gametypes_zm/_globallogic_defaults.gsc
+Pointer Address: 0x831EBF08
+Buffer Address: 0xA5AEFA40
+Size: 0x11F5
+
+Name: maps/mp/gametypes_zm/_globallogic_player.gsc
+Pointer Address: 0x831EBF14
+Buffer Address: 0xA5AF0C80
+Size: 0x9B4D
+
+Name: maps/mp/gametypes_zm/_globallogic_score.gsc
+Pointer Address: 0x831EBF20
+Buffer Address: 0xA5AFA800
+Size: 0x33B1
+
+Name: maps/mp/gametypes_zm/_globallogic_spawn.gsc
+Pointer Address: 0x831EBF2C
+Buffer Address: 0xA5AFDBE0
+Size: 0x3946
+
+Name: maps/mp/gametypes_zm/_globallogic_ui.gsc
+Pointer Address: 0x831EBF38
+Buffer Address: 0xA5B01560
+Size: 0x1F06
+
+Name: maps/mp/gametypes_zm/_globallogic_utils.gsc
+Pointer Address: 0x831EBF44
+Buffer Address: 0xA5B034A0
+Size: 0x18D2
+
+Name: maps/mp/gametypes_zm/_globallogic_vehicle.gsc
+Pointer Address: 0x831EBF50
+Buffer Address: 0xA5B04DC0
+Size: 0x1A29
+
+Name: maps/mp/gametypes_zm/_gv_actions.gsc
+Pointer Address: 0x831EBF5C
+Buffer Address: 0xA5B06820
+Size: 0x3925
+
+Name: maps/mp/gametypes_zm/_healthoverlay.gsc
+Pointer Address: 0x831EBF68
+Buffer Address: 0xA5B0A180
+Size: 0xD1B
+
+Name: maps/mp/gametypes_zm/_hostmigration.gsc
+Pointer Address: 0x831EBF74
+Buffer Address: 0xA5B0AEE0
+Size: 0x23D6
+
+Name: maps/mp/gametypes_zm/_hud.gsc
+Pointer Address: 0x831EBF80
+Buffer Address: 0xA5B0D2E0
+Size: 0xEEF
+
+Name: maps/mp/gametypes_zm/_hud_message.gsc
+Pointer Address: 0x831EBF8C
+Buffer Address: 0xA5B0E200
+Size: 0x5293
+
+Name: maps/mp/gametypes_zm/_hud_util.gsc
+Pointer Address: 0x831EBF98
+Buffer Address: 0xA5B134C0
+Size: 0x3F82
+
+Name: maps/mp/gametypes_zm/_menus.gsc
+Pointer Address: 0x831EBFA4
+Buffer Address: 0xA5B17480
+Size: 0xEC9
+
+Name: maps/mp/gametypes_zm/_perplayer.gsc
+Pointer Address: 0x831EBFB0
+Buffer Address: 0xA5B18380
+Size: 0x9DC
+
+Name: maps/mp/gametypes_zm/_scoreboard.gsc
+Pointer Address: 0x831EBFBC
+Buffer Address: 0xA5B18DA0
+Size: 0x3AE
+
+Name: maps/mp/gametypes_zm/_serversettings.gsc
+Pointer Address: 0x831EBFC8
+Buffer Address: 0xA5B19180
+Size: 0xC51
+
+Name: maps/mp/gametypes_zm/_shellshock.gsc
+Pointer Address: 0x831EBFD4
+Buffer Address: 0xA5B19E00
+Size: 0x48A
+
+Name: maps/mp/gametypes_zm/_spawning.gsc
+Pointer Address: 0x831EBFE0
+Buffer Address: 0xA5B1A2C0
+Size: 0x66D2
+
+Name: maps/mp/gametypes_zm/_spawnlogic.gsc
+Pointer Address: 0x831EBFEC
+Buffer Address: 0xA5B209C0
+Size: 0x742A
+
+Name: maps/mp/gametypes_zm/_spectating.gsc
+Pointer Address: 0x831EBFF8
+Buffer Address: 0xA5B27E20
+Size: 0xCAD
+
+Name: maps/mp/gametypes_zm/_tweakables.gsc
+Pointer Address: 0x831EC004
+Buffer Address: 0xA5B28B00
+Size: 0x1AFE
+
+Name: maps/mp/gametypes_zm/_weapons.gs
+Pointer Address: 0x831EC010
+Buffer Address: 0xA5B2A640
+Size: 0x777C
+
+Name: maps/mp/gametypes_zm/_weapon_utils.gsc
+Pointer Address: 0x831EC01C
+Buffer Address: 0xA5B31E00
+Size: 0x5EE
+
+Name: maps/mp/gametypes_zm/_weaponobjects.gsc
+Pointer Address: 0x831EC028
+Buffer Address: 0xA5B32420
+Size: 0x90E1
+
+Name: maps/mp/gametypes_zm/_zm_gametype.gsc
+Pointer Address: 0x831EC034
+Buffer Address: 0xA5B3B540
+Size: 0x9C80
+
+Name: maps/mp/zombies/_zm.gsc
+Pointer Address: 0x831EC040
+Buffer Address: 0xA5B451E0
+Size: 0x19B55
+
+Name: maps/mp/zombies/_zm_ai_basic.gsc
+Pointer Address: 0x831EC04C
+Buffer Address: 0xA5B5ED60
+Size: 0x2507
+
+Name: maps/mp/zombies/_zm_ai_dogs.gsc
+Pointer Address: 0x831EC058
+Buffer Address: 0xA5B612A0
+Size: 0x3BA6
+
+Name: maps/mp/zombies/_zm_ai_faller.gsc
+Pointer Address: 0x831EC064
+Buffer Address: 0xA5B64E80
+Size: 0x2957
+
+Name: maps/mp/zombies/_zm_audio.gsc
+Pointer Address: 0x831EC070
+Buffer Address: 0xA5B67800
+Size: 0x7441
+
+Name: maps/mp/zombies/_zm_audio_announcer.gsc
+Pointer Address: 0x831EC07C
+Buffer Address: 0xA5B6EC80
+Size: 0x2978
+
+Name: maps/mp/zombies/_zm_blockers.gsc
+Pointer Address: 0x831EC088
+Buffer Address: 0xA5B71620
+Size: 0x9555
+
+Name: maps/mp/zombies/_zm_bot.gsc
+Pointer Address: 0x831EC094
+Buffer Address: 0xA5B7ABA0
+Size: 0x126
+
+Name: maps/mp/zombies/_zm_buildables.gsc
+Pointer Address: 0x831EC0A0
+Buffer Address: 0xA5B7AD00
+Size: 0xBB03
+
+Name: maps/mp/zombies/_zm_chugabud.gsc
+Pointer Address: 0x831EC0AC
+Buffer Address: 0xA5B86840
+Size: 0x3E13
+
+Name: maps/mp/zombies/_zm_perk_electric_cherry.gsc
+Pointer Address: 0x831EC0B8
+Buffer Address: 0xA5B8A6A0
+Size: 0x22D1
+
+Name: maps/mp/zombies/_zm_clone.gsc
+Pointer Address: 0x831EC0C4
+Buffer Address: 0xA5B8C9A0
+Size: 0xB3D
+
+Name: maps/mp/zombies/_zm_devgui.gsc
+Pointer Address: 0x831EC0D0
+Buffer Address: 0xA5B8D500
+Size: 0x9B6A
+
+Name: maps/mp/zombies/_zm_equip_gasmask.gsc
+Pointer Address: 0x831EC0DC
+Buffer Address: 0xA5B970A0
+Size: 0xED2
+
+Name: maps/mp/zombies/_zm_equip_hacker.gsc
+Pointer Address: 0x831EC0E8
+Buffer Address: 0xA5B97FA0
+Size: 0x30BA
+
+Name: maps/mp/zombies/_zm_equip_turbine.gsc
+Pointer Address: 0x831EC0F4
+Buffer Address: 0xA5B9B0A0
+Size: 0x2EB9
+
+Name: maps/mp/zombies/_zm_equipment.gsc
+Pointer Address: 0x831EC100
+Buffer Address: 0xA5B9DF80
+Size: 0x714E
+
+Name: maps/mp/zombies/_zm_ffotd.gsc
+Pointer Address: 0x831EC10C
+Buffer Address: 0xA5BA5100
+Size: 0x11F0
+
+Name: maps/mp/zombies/_zm_gump.gsc
+Pointer Address: 0x831EC118
+Buffer Address: 0xA5BA6320
+Size: 0x4BE
+
+Name: maps/mp/zombies/_zm_hackables_boards.gsc
+Pointer Address: 0x831EC124
+Buffer Address: 0xA5BA6820
+Size: 0xA79
+
+Name: maps/mp/zombies/_zm_hackables_box.gsc
+Pointer Address: 0x831EC130
+Buffer Address: 0xA5BA72C0
+Size: 0x1B27
+
+Name: maps/mp/zombies/_zm_hackables_doors.gsc
+Pointer Address: 0x831EC13C
+Buffer Address: 0xA5BA8E20
+Size: 0x819
+
+Name: maps/mp/zombies/_zm_hackables_packapuch.gsc
+Pointer Address: 0x831EC148
+Buffer Address: 0xA5BA9680
+Size: 0x4DF
+
+Name: maps/mp/zombies/_zm_hackables_perks.gsc
+Pointer Address: 0x831EC154
+Buffer Address: 0xA5BA9BA0
+Size: 0x73D
+
+Name: maps/mp/zombies/_zm_hackables_powerups.gsc
+Pointer Address: 0x831EC160
+Buffer Address: 0xA5BAA320
+Size: 0x6F2
+
+Name: maps/mp/zombies/_zm_hackables_wallbuys.gsc
+Pointer Address: 0x831EC16C
+Buffer Address: 0xA5BAAA40
+Size: 0x55E
+
+Name: maps/mp/zombies/_zm_jump_pad.gsc
+Pointer Address: 0x831EC178
+Buffer Address: 0xA5BAAFC0
+Size: 0x1F75
+
+Name: maps/mp/zombies/_zm_laststand.gsc
+Pointer Address: 0x831EC184
+Buffer Address: 0xA5BACF60
+Size: 0x5B0E
+
+Name: maps/mp/zombies/_zm_magicbox.gsc
+Pointer Address: 0x831EC190
+Buffer Address: 0xA5BB2AA0
+Size: 0x653D
+
+Name: maps/mp/zombies/_zm_magicbox_lock.gsc
+Pointer Address: 0x831EC19C
+Buffer Address: 0xA5BB9020
+Size: 0x9B1
+
+Name: maps/mp/zombies/_zm_net.gsc
+Pointer Address: 0x831EC1A8
+Buffer Address: 0xA5BB9A00
+Size: 0x682
+
+Name: maps/mp/zombies/_zm_perks.gsc
+Pointer Address: 0x831EC1B4
+Buffer Address: 0xA5BBA0C0
+Size: 0x10BBD
+
+Name: maps/mp/zombies/_zm_playerhealth.gsc
+Pointer Address: 0x831EC1C0
+Buffer Address: 0xA5BCACC0
+Size: 0x23C9
+
+Name: maps/mp/zombies/_zm_power.gsc
+Pointer Address: 0x831EC1CC
+Buffer Address: 0xA5BCD0C0
+Size: 0x28D5
+
+Name: maps/mp/zombies/_zm_powerups.gsc
+Pointer Address: 0x831EC1D8
+Buffer Address: 0xA5BCF9C0
+Size: 0xBD26
+
+Name: maps/mp/zombies/_zm_score.gsc
+Pointer Address: 0x831EC1E4
+Buffer Address: 0xA5BDB720
+Size: 0x1C02
+
+Name: maps/mp/zombies/_zm_server_throttle.gsc
+Pointer Address: 0x831EC1F0
+Buffer Address: 0xA5BDD360
+Size: 0x5FD
+
+Name: maps/mp/zombies/_zm_sidequests.gsc
+Pointer Address: 0x831EC1FC
+Buffer Address: 0xA5BDD9A0
+Size: 0x44B5
+
+Name: maps/mp/zombies/_zm_spawner.gsc
+Pointer Address: 0x831EC208
+Buffer Address: 0xA5BE1E80
+Size: 0xD622
+
+Name: maps/mp/zombies/_zm_timer.gsc
+Pointer Address: 0x831EC214
+Buffer Address: 0xA5BEF4E0
+Size: 0x64D
+
+Name: maps/mp/zombies/_zm_tombstone.gsc
+Pointer Address: 0x831EC220
+Buffer Address: 0xA5BEFB60
+Size: 0x239D
+
+Name: maps/mp/zombies/_zm_traps.gsc
+Pointer Address: 0x831EC22C
+Buffer Address: 0xA5BF1F20
+Size: 0x3C91
+
+Name: maps/mp/zombies/_zm_turned.gsc
+Pointer Address: 0x831EC238
+Buffer Address: 0xA5BF5BE0
+Size: 0x263E
+
+Name: maps/mp/zombies/_zm_utility.gsc
+Pointer Address: 0x831EC244
+Buffer Address: 0xA5BF8240
+Size: 0x12299
+
+Name: maps/mp/zombies/_zm_weapons.gsc
+Pointer Address: 0x831EC250
+Buffer Address: 0xA5C0A500
+Size: 0xB4A5
+
+Name: maps/mp/zombies/_zm_zonemgr.gsc
+Pointer Address: 0x831EC25C
+Buffer Address: 0xA5C159E0
+Size: 0x4376
+
+Name: maps/mp/zombies/_zm_game_module.gsc
+Pointer Address: 0x831EC268
+Buffer Address: 0xA5C19D80
+Size: 0x23C6
+
+Name: maps/mp/zombies/_zm_pers_upgrades.gsc
+Pointer Address: 0x831EC274
+Buffer Address: 0xA5C1C180
+Size: 0x2E92
+
+Name: maps/mp/zombies/_zm_pers_upgrades_functions.gsc
+Pointer Address: 0x831EC280
+Buffer Address: 0xA5C1F060
+Size: 0x4EBE
+
+Name: maps/mp/zombies/_zm_pers_upgrades_system.gsc
+Pointer Address: 0x831EC28C
+Buffer Address: 0xA5C23F60
+Size: 0x111A
+
+Name: maps/mp/zombies/_zm_stats.gsc
+Pointer Address: 0x831EC298
+Buffer Address: 0xA5C250A0
+Size: 0x6FC2
+
+Name: maps/mp/zombies/_zm_unitrigger.gsc
+Pointer Address: 0x831EC2A4
+Buffer Address: 0xA5C2C0A0
+Size: 0x2AFB
+
+Name: maps/mp/gametypes_zm/zclassic.gsc
+Pointer Address: 0x831EC2B0
+Buffer Address: 0xA5C2EBC0
+Size: 0x3DE
+
+Name: clientscripts/mp/gametypes/zclass.csc
+Pointer Address: 0x831EC2BC
+Buffer Address: 0xA5C2EFE0
+Size: 0x1FA
+
+Name: maps/mp/animscripts/traverse/zm_mantle_over_40.gsc
+Pointer Address: 0x831EC2C8
+Buffer Address: 0xA5C2F220
+Size: 0x462
+
+Name: clientscripts/mp/_ambient.csc
+Pointer Address: 0x831EC2D4
+Buffer Address: 0xA5C2F6C0
+Size: 0x2187
+
+Name: clientscripts/mp/_ambientpackage.csc
+Pointer Address: 0x831EC2E0
+Buffer Address: 0xA5C31880
+Size: 0x3F65
+
+Name: clientscripts/mp/_audio.csc
+Pointer Address: 0x831EC2EC
+Buffer Address: 0xA5C35820
+Size: 0x3917
+
+Name: clientscripts/mp/_busing.csc
+Pointer Address: 0x831EC2F8
+Buffer Address: 0xA5C39160
+Size: 0xA5E
+
+Name: clientscripts/mp/zombies/_callbacks.csc
+Pointer Address: 0x831EC304
+Buffer Address: 0xA5C39C00
+Size: 0x21F0
+
+Name: clientscripts/mp/_claymore.csc
+Pointer Address: 0x831EC310
+Buffer Address: 0xA5C3BE20
+Size: 0x285
+
+Name: clientscripts/mp/_destructible.csc
+Pointer Address: 0x831EC31C
+Buffer Address: 0xA5C3C0E0
+Size: 0x24A
+
+Name: clientscripts/mp/_rotating_object.csc
+Pointer Address: 0x831EC328
+Buffer Address: 0xA5C3C360
+Size: 0x393
+
+Name: clientscripts/mp/_explode.csc
+Pointer Address: 0x831EC334
+Buffer Address: 0xA5C3C720
+Size: 0x87D
+
+Name: clientscripts/mp/_filter.csc
+Pointer Address: 0x831EC340
+Buffer Address: 0xA5C3CFC0
+Size: 0x786
+
+Name: clientscripts/mp/_footsteps.csc
+Pointer Address: 0x831EC34C
+Buffer Address: 0xA5C3D780
+Size: 0xE9F
+
+Name: clientscripts/mp/_fx.csc
+Pointer Address: 0x831EC358
+Buffer Address: 0xA5C3E640
+Size: 0x2502
+
+Name: clientscripts/mp/_fxanim.csc
+Pointer Address: 0x831EC364
+Buffer Address: 0xA5C40B60
+Size: 0x1416
+
+Name: clientscripts/mp/_global_fx.csc
+Pointer Address: 0x831EC370
+Buffer Address: 0xA5C41FA0
+Size: 0x1873
+
+Name: clientscripts/mp/_lights.csc
+Pointer Address: 0x831EC37C
+Buffer Address: 0xA5C43840
+Size: 0x4129
+
+Name: clientscripts/mp/zombies/_load.csc
+Pointer Address: 0x831EC388
+Buffer Address: 0xA5C479A0
+Size: 0xE49
+
+Name: clientscripts/mp/_music.csc
+Pointer Address: 0x831EC394
+Buffer Address: 0xA5C48820
+Size: 0x222A
+
+Name: clientscripts/mp/zombies/_player.csc
+Pointer Address: 0x831EC3A0
+Buffer Address: 0xA5C4AA80
+Size: 0x5DD
+
+Name: clientscripts/mp/_rewindobjects.csc
+Pointer Address: 0x831EC3AC
+Buffer Address: 0xA5C4B0A0
+Size: 0x103E
+
+Name: clientscripts/mp/_riotshield.csc
+Pointer Address: 0x831EC3B8
+Buffer Address: 0xA5C4C100
+Size: 0x842
+
+Name: clientscripts/mp/_sticky_grenade.csc
+Pointer Address: 0x831EC3C4
+Buffer Address: 0xA5C4C980
+Size: 0x85E
+
+Name: clientscripts/mp/_proximity_grenade.csc
+Pointer Address: 0x831EC3D0
+Buffer Address: 0xA5C4D220
+Size: 0x11F5
+
+Name: clientscripts/mp/_utility.csc
+Pointer Address: 0x831EC3DC
+Buffer Address: 0xA5C4E440
+Size: 0x3643
+
+Name: clientscripts/mp/_utility_code.csc
+Pointer Address: 0x831EC3E8
+Buffer Address: 0xA5C51AC0
+Size: 0x63D
+
+Name: clientscripts/mp/_visionset_mgr.csc
+Pointer Address: 0x831EC3F4
+Buffer Address: 0xA5C52140
+Size: 0x2C29
+
+Name: clientscripts/_radiant_live_updape.csc
+Pointer Address: 0x831EC400
+Buffer Address: 0xA5C54DA0
+Size: 0x1E9
+
+Name: codescripts/struct.csc
+Pointer Address: 0x831EC40C
+Buffer Address: 0xA5C54FC0
+Size: 0x1A2
+
+Name: codescripts/delete.csc
+Pointer Address: 0x831EC418
+Buffer Address: 0xA5C55180
+Size: 0x236
+
+Name: clientscripts/mp/zombies/_zm.csc
+Pointer Address: 0x831EC424
+Buffer Address: 0xA5C553E0
+Size: 0x75CE
+
+Name: clientscripts/mp/zombies/_zm_audio.csc
+Pointer Address: 0x831EC430
+Buffer Address: 0xA5C5C9E0
+Size: 0x122A
+
+Name: clientscripts/mp/zombies/_zm_clone.csc
+Pointer Address: 0x831EC43C
+Buffer Address: 0xA5C5DC40
+Size: 0x162
+
+Name: clientscripts/mp/zombies/_zm_equip_gasmask.csc
+Pointer Address: 0x831EC448
+Buffer Address: 0xA5C5DDE0
+Size: 0xBFE
+
+Name: clientscripts/mp/zombies/_zm_equip_hacker.csc
+Pointer Address: 0x831EC454
+Buffer Address: 0xA5C5EA20
+Size: 0x21B
+
+Name: clientscripts/mp/zombies/_zm_equipment.csc
+Pointer Address: 0x831EC460
+Buffer Address: 0xA5C5EC80
+Size: 0x7B7
+
+Name: clientscripts/mp/zombies/_zm_ffotd.csc
+Pointer Address: 0x831EC46C
+Buffer Address: 0xA5C5F460
+Size: 0xC2
+
+Name: clientscripts/mp/zombies/_zm_gump.csc
+Pointer Address: 0x831EC478
+Buffer Address: 0xA5C5F560
+Size: 0x16DE
+
+Name: clientscripts/mp/zombies/_zm_magicbox.csc
+Pointer Address: 0x831EC484
+Buffer Address: 0xA5C60C80
+Size: 0x7B5
+
+Name: clientscripts/mp/zombies/_zm_perks.csc
+Pointer Address: 0x831EC490
+Buffer Address: 0xA5C61460
+Size: 0x1332
+
+Name: clientscripts/mp/zombies/_zm_score.csc
+Pointer Address: 0x831EC49C
+Buffer Address: 0xA5C627C0
+Size: 0x4DA
+
+Name: clientscripts/mp/zombies/_zm_utility.csc
+Pointer Address: 0x831EC4A8
+Buffer Address: 0xA5C62CE0
+Size: 0x19D5
+
+Name: clientscripts/mp/zombies/_zm_weapons.csc
+Pointer Address: 0x831EC4B4
+Buffer Address: 0xA5C646E0
+Size: 0x1F15
+
+Name: clientscripts/mp/zombies/_zm_powerups.csc
+Pointer Address: 0x831EC4C0
+Buffer Address: 0xA5C66620
+Size: 0xB7A
+
+Name: clientscripts/mp/zombies/_zm_buildables.csc
+Pointer Address: 0x831EC4CC
+Buffer Address: 0xA5C671E0
+Size: 0x55B
