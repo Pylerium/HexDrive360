@@ -11,10 +11,11 @@ The release is self-contained and does not require a separate .NET installation.
 
 ## Run
 
-Download and run `HexDump360.exe`, or extract the release ZIP and run the executable inside it. The app may extract bundled runtime files on first launch.
+Download and run `HexDrive360.exe`, or extract the release ZIP and run the executable inside it. The app may extract bundled runtime files on first launch.
 
 ## Build from source
 
 ```powershell
 dotnet publish .\MemoryEditor.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeNativeLibrariesForSelfExtract=true -p:IncludeAllContentForSelfExtract=true -o .\publish
 ```
+
